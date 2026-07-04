@@ -31,7 +31,7 @@ Welcome to my personal cybersecurity playground. This repository contains the sc
 ### 🗡️ "Arise" - The Level-Up Journey
 
 <p align="center">
-  <img src="https://media.tenor.com/71239p8_qTMAAAAC/arise-sung-jin-woo.gif" width="400" alt="Sung Jinwoo Arise"/>
+  <img src="https://media.tenor.com/cmGCMoAyI_cAAAAC/solo-leveling-solo-leveling-season-2.gif" width="400" alt="Sung Jinwoo Arise"/>
 </p>
 
 Like **Sung Jinwoo**, I'm constantly grinding to level up my skills. From **network reconnaissance** and **vulnerability scanning** to **post-exploitation** and **forensics**, these scripts represent my journey from E-Rank to Shadow Monarch in the cyber world.
