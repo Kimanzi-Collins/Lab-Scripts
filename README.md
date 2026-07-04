@@ -28,7 +28,13 @@ Built for red teamers, blue teamers, and CTF enthusiasts.
 
 Welcome to my personal cybersecurity playground. This repository contains the scripts, tools, and automation workflows I am developing as I progress through my cybersecurity career. 
 
-From **network reconnaissance** and **vulnerability scanning** to **post-exploitation** and **forensics**, these scripts are designed to streamline operations in lab environments (like HackTheBox, TryHackMe, or local AD setups).
+### 🗡️ "Arise" - The Level-Up Journey
+
+<p align="center">
+  <img src="https://media.tenor.com/71239p8_qTMAAAAC/arise-sung-jin-woo.gif" width="400" alt="Sung Jinwoo Arise"/>
+</p>
+
+Like **Sung Jinwoo**, I'm constantly grinding to level up my skills. From **network reconnaissance** and **vulnerability scanning** to **post-exploitation** and **forensics**, these scripts represent my journey from E-Rank to Shadow Monarch in the cyber world.
 
 > [!CAUTION]
 > **Disclaimer:** These tools are provided for educational and research purposes only. Only run these scripts against systems you own or have explicit permission to test. 
