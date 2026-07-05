@@ -28,6 +28,8 @@ cyber_loader() {
     # Drop down one empty line when finished
     echo "" 
 }
+
+cyber_loader "Initializing script and preparing environment..."
 echo -e "\e[32m"
 cat << "EOF"
 #########################################################################
@@ -71,9 +73,11 @@ while true; do
             echo "$(date): System Maintenance initiated." >> "$LOG_FILE"
             echo "Disk Usage:"
             df -h
+            echo "---------------------------------------------------------------------------------"
             echo "Deleting logs older than 7 days..."
             find /var/log -type f -name "*.log" -mtime +7 -delete
             echo "Logs older than 7 days have been deleted."
+            echo "---------------------------------------------------------------------------------"
             echo "$(date): System Maintenance completed." >> "$LOG_FILE"
             ;;
         
@@ -83,7 +87,9 @@ while true; do
             echo "$(date): System update initiated." >> "$LOG_FILE"
             echo "System will reboot soon. Please save your work."
             sudo apt update && sudo apt upgrade -y
+            echo "---------------------------------------------------------------------------------"
             echo "System update completed. Rebooting now..."
+            echo "---------------------------------------------------------------------------------"
             echo "$(date): System update completed." >> "$LOG_FILE"
             ;;
         
@@ -97,9 +103,11 @@ while true; do
             if [ -d "$source_dir" ] && [ -d "$dest_dir" ]; then
                 mv "$source_dir"/$file_type "$dest_dir"
                 echo "Files of type $file_type have been moved from $source_dir to $dest_dir."
+                echo "---------------------------------------------------------------------------------"
                 echo "$(date): File move operation completed." >> "$LOG_FILE"
             else
                 echo "Invalid source or destination directory. Please check the paths and try again."
+                echo "---------------------------------------------------------------------------------"
             fi
             ;;
         
@@ -110,6 +118,7 @@ while true; do
             sudo rm -rf /tmp/*
             sudo apt clean
             echo "Temporary files and cache have been cleared."
+            echo "---------------------------------------------------------------------------------"
             echo "$(date): Cleanup operation completed." >> "$LOG_FILE"
             ;;
         
@@ -127,6 +136,7 @@ while true; do
                 echo "$(date): Backup operation completed." >> "$LOG_FILE"
             else
                 echo "Invalid backup or destination directory. Please check the paths and try again."
+                echo "---------------------------------------------------------------------------------"
             fi
             ;;
         6)
@@ -136,6 +146,7 @@ while true; do
             ;;
         *)
             echo "Invalid choice. Please enter a number between 1 and 6."
+            echo "---------------------------------------------------------------------------------"
             ;;
     esac
 done
