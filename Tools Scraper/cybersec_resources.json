@@ -1,0 +1,3615 @@
+[
+    {
+        "name": "personal-security-checklist",
+        "html_url": "https://github.com/lissy93/personal-security-checklist",
+        "description": "\ud83d\udd12 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
+        "stars": 21897,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "censorship",
+            "checklist",
+            "cybersecurity",
+            "defense",
+            "hacktoberfest",
+            "open-source",
+            "privacy",
+            "protection",
+            "security",
+            "security-tools",
+            "surveillance"
+        ]
+    },
+    {
+        "name": "awesome-incident-response",
+        "html_url": "https://github.com/meirwah/awesome-incident-response",
+        "description": "A curated list of tools for incident response",
+        "stars": 9275,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "dfir",
+            "incident-response",
+            "incident-response-tooling",
+            "list",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-ml-for-cybersecurity",
+        "html_url": "https://github.com/jivoi/awesome-ml-for-cybersecurity",
+        "description": " :octocat: Machine Learning for Cyber Security",
+        "stars": 9168,
+        "topics": [
+            "awesome-list",
+            "cyber-security",
+            "data-mining",
+            "machine-learning"
+        ]
+    },
+    {
+        "name": "osint_stuff_tool_collection",
+        "html_url": "https://github.com/cipher387/osint_stuff_tool_collection",
+        "description": "A collection of several hundred online tools for OSINT",
+        "stars": 8520,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "geoint",
+            "hacking",
+            "humint",
+            "osint",
+            "socmint",
+            "tools",
+            "toolset"
+        ]
+    },
+    {
+        "name": "awesome-youtubers",
+        "html_url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+        "description": "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
+        "stars": 7562,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "list",
+            "youtube",
+            "youtubers"
+        ]
+    },
+    {
+        "name": "DevSecOps",
+        "html_url": "https://github.com/sottlmarek/DevSecOps",
+        "description": "Ultimate DevSecOps library",
+        "stars": 6803,
+        "topics": [
+            "automation",
+            "awesome",
+            "awesome-list",
+            "aws",
+            "azure",
+            "ci-cd",
+            "cloud",
+            "containers",
+            "cybersecurity",
+            "devops",
+            "devsecops",
+            "docker",
+            "gcp",
+            "k8s",
+            "kubernetes",
+            "security",
+            "serverless",
+            "ssdlc",
+            "tool"
+        ]
+    },
+    {
+        "name": "Awesome-GPT-Agents",
+        "html_url": "https://github.com/fr0gger/Awesome-GPT-Agents",
+        "description": "A curated list of GPT agents for cybersecurity",
+        "stars": 6552,
+        "topics": [
+            "agents",
+            "cybersecurity",
+            "infosec",
+            "llm"
+        ]
+    },
+    {
+        "name": "awesome-security-hardening",
+        "html_url": "https://github.com/decalage2/awesome-security-hardening",
+        "description": "A collection of awesome security hardening guides, tools and other resources",
+        "stars": 6471,
+        "topics": [
+            "awesome-list",
+            "best-practices",
+            "blue-team",
+            "blueteam",
+            "cis-benchmarks",
+            "computer-security",
+            "cyber-security",
+            "cybersecurity",
+            "infosec",
+            "linux-hardening",
+            "security",
+            "security-hardening",
+            "security-tools",
+            "windows-hardening"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-blueteam",
+        "html_url": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
+        "description": ":computer:\ud83d\udee1\ufe0f A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
+        "stars": 5468,
+        "topics": [
+            "awesome-list",
+            "blue-team",
+            "computer-security",
+            "cybersecurity",
+            "defensive-security",
+            "infosec",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-vehicle-security",
+        "html_url": "https://github.com/jaredthecoder/awesome-vehicle-security",
+        "description": "\ud83d\ude97  A curated list of resources for learning about vehicle security and car hacking.",
+        "stars": 4395,
+        "topics": [
+            "automotive",
+            "awesome",
+            "awesome-list",
+            "car-hacking",
+            "cars",
+            "cybersecurity",
+            "hacking",
+            "hacking-vehicles",
+            "hardware",
+            "learning",
+            "security",
+            "vehicle-security"
+        ]
+    },
+    {
+        "name": "awesome-list",
+        "html_url": "https://github.com/0xor0ne/awesome-list",
+        "description": "Cybersecurity oriented awesome list",
+        "stars": 3910,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "exploitation",
+            "reverse-engineering"
+        ]
+    },
+    {
+        "name": "Awesome-Cybersecurity-Handbooks",
+        "html_url": "https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks",
+        "description": "A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.",
+        "stars": 3880,
+        "topics": [
+            "blue-teaming",
+            "capture-the-flag",
+            "ctf",
+            "cybersecurity",
+            "defensive-security",
+            "handbooks",
+            "infosec",
+            "offensive",
+            "offensive-security",
+            "penetration-testing",
+            "pentesting",
+            "red-teaming",
+            "security"
+        ]
+    },
+    {
+        "name": "Awesome-OSINT-List",
+        "html_url": "https://github.com/Astrosp/Awesome-OSINT-List",
+        "description": "\ud83d\udce1 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+        "stars": 3760,
+        "topics": [
+            "ai",
+            "ai-tools",
+            "awesome-list",
+            "bug-bounty",
+            "cybersecurity",
+            "information-gathering",
+            "osint",
+            "pentest",
+            "recon",
+            "red-team",
+            "reverse-search",
+            "security-tools",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "awesome-cyber-security-university",
+        "html_url": "https://github.com/brootware/awesome-cyber-security-university",
+        "description": "\ud83c\udf93 Because Education should be free. Contributions welcome! \ud83d\udd75\ufe0f ",
+        "stars": 3168,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "courses",
+            "curriculum",
+            "cyber-security",
+            "cybersecurity",
+            "education",
+            "educational-project",
+            "free",
+            "hacking",
+            "learning-by-doing"
+        ]
+    },
+    {
+        "name": "awesome-nodejs-security",
+        "html_url": "https://github.com/lirantal/awesome-nodejs-security",
+        "description": "Awesome Node.js Security resources",
+        "stars": 3020,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "hacktoberfest",
+            "infosec",
+            "nodejs",
+            "owasp",
+            "pentest",
+            "security",
+            "vulnerabilities",
+            "web-security"
+        ]
+    },
+    {
+        "name": "Dorks-collections-list",
+        "html_url": "https://github.com/cipher387/Dorks-collections-list",
+        "description": "List of Github repositories and articles with list of dorks for different search engines",
+        "stars": 2702,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "hacking",
+            "osint",
+            "pentest"
+        ]
+    },
+    {
+        "name": "FBI-tools",
+        "html_url": "https://github.com/danieldurnea/FBI-tools",
+        "description": "\ud83d\udd75\ufe0f OSINT Tools for gathering information and actions forensics \ud83d\udd75\ufe0f ",
+        "stars": 2575,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "bug-bounty",
+            "cybersecurity",
+            "forensics",
+            "hacking",
+            "incident-response",
+            "infosec",
+            "osint",
+            "penetration-testing",
+            "pentesting",
+            "reconnaissance",
+            "security",
+            "security-automation",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "awesome-cloud-security",
+        "html_url": "https://github.com/4ndersonLin/awesome-cloud-security",
+        "description": "\ud83d\udee1\ufe0f Awesome Cloud Security Resources \u2694\ufe0f",
+        "stars": 2469,
+        "topics": [
+            "aws",
+            "aws-security",
+            "azure",
+            "azure-security",
+            "cloud-computing",
+            "cloud-security",
+            "cybersecurity",
+            "gcp",
+            "gcp-security",
+            "security"
+        ]
+    },
+    {
+        "name": "API-s-for-OSINT",
+        "html_url": "https://github.com/cipher387/API-s-for-OSINT",
+        "description": "List of API's for gathering information about phone numbers, addresses, domains etc",
+        "stars": 2415,
+        "topics": [
+            "api",
+            "api-rest",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "information-gathering",
+            "osint"
+        ]
+    },
+    {
+        "name": "awesome-intelligence",
+        "html_url": "https://github.com/ARPSyndicate/awesome-intelligence",
+        "description": "A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources",
+        "stars": 2384,
+        "topics": [
+            "awesome",
+            "awesome-intelligence",
+            "awesome-list",
+            "awesome-lists",
+            "crypto",
+            "cybersecurity",
+            "economics",
+            "geopolitics",
+            "hacktoberfest",
+            "hacktoberfest2024",
+            "malware",
+            "osint",
+            "stocks",
+            "terrorism",
+            "tor"
+        ]
+    },
+    {
+        "name": "Free_CyberSecurity_Professional_Development_Resources",
+        "html_url": "https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources",
+        "description": "An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. Now its taken on a life of its own and will persist, COVID be damned.",
+        "stars": 2151,
+        "topics": []
+    },
+    {
+        "name": "awesome-cloud-security",
+        "html_url": "https://github.com/teamssix/awesome-cloud-security",
+        "description": "awesome cloud security \u6536\u96c6\u4e00\u4e9b\u56fd\u5185\u5916\u4e0d\u9519\u7684\u4e91\u5b89\u5168\u8d44\u6e90\uff0c\u8be5\u9879\u76ee\u4e3b\u8981\u9762\u5411\u56fd\u5185\u7684\u5b89\u5168\u4eba\u5458",
+        "stars": 2105,
+        "topics": [
+            "awesome",
+            "awesome-cloud-security",
+            "cloud-native",
+            "cloud-security",
+            "cloudnative",
+            "cloudsecurity",
+            "cybersecurity",
+            "docker",
+            "kubernetes",
+            "tools"
+        ]
+    },
+    {
+        "name": "Awesome-Cybersecurity-Datasets",
+        "html_url": "https://github.com/shramos/Awesome-Cybersecurity-Datasets",
+        "description": "A curated list of amazingly awesome Cybersecurity datasets",
+        "stars": 2047,
+        "topics": [
+            "attack",
+            "cybersecurity",
+            "data",
+            "dataframe",
+            "datasets",
+            "deep",
+            "deeplearning",
+            "events",
+            "ids",
+            "ips",
+            "learning",
+            "logs",
+            "machinelearning",
+            "malware",
+            "security",
+            "traffic"
+        ]
+    },
+    {
+        "name": "awesome-soc",
+        "html_url": "https://github.com/cyb3rxp/awesome-soc",
+        "description": "A curated knowledge base to build, run and mature a SOC (including CSIRT).",
+        "stars": 1777,
+        "topics": [
+            "architecture",
+            "cert",
+            "csirt",
+            "cybersecurity",
+            "detection-engineering",
+            "dfir",
+            "incident-response",
+            "mitre-attack",
+            "purpleteam",
+            "risk-management",
+            "security-monitoring",
+            "siem",
+            "sirp",
+            "soar",
+            "soc",
+            "threat-detection",
+            "threat-hunting",
+            "tip",
+            "ttp"
+        ]
+    },
+    {
+        "name": "Awesome-LLM4Cybersecurity",
+        "html_url": "https://github.com/tmylla/Awesome-LLM4Cybersecurity",
+        "description": "An overview of LLMs for cybersecurity.",
+        "stars": 1715,
+        "topics": []
+    },
+    {
+        "name": "awesome-executable-packing",
+        "html_url": "https://github.com/packing-box/awesome-executable-packing",
+        "description": "A curated list of awesome resources related to executable packing",
+        "stars": 1596,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "binary-analysis",
+            "cybersecurity",
+            "executable-packing",
+            "list",
+            "malware",
+            "malware-analysis",
+            "malware-packers",
+            "malware-research",
+            "packers",
+            "packing-detection",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-osint-arsenal",
+        "html_url": "https://github.com/rawfilejson/awesome-osint-arsenal",
+        "description": "\ud83d\udd0d Curated OSINT & recon toolkit for Kali Linux \u2014 100+ tools, one-command installer, covering SOCMINT, GEOINT, network recon, dark web, forensics & more.",
+        "stars": 1481,
+        "topics": [
+            "cybersecurity",
+            "data-breach",
+            "ethical-hacking",
+            "goverment-data",
+            "hacking",
+            "information-gathering",
+            "infosec",
+            "intelligence",
+            "investigation",
+            "kali-linux",
+            "open-data",
+            "osint",
+            "osint-tool",
+            "osint-tools",
+            "penetration-testing",
+            "public-records",
+            "recon",
+            "reconnaissance",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "awesome-security-newsletters",
+        "html_url": "https://github.com/TalEliyahu/awesome-security-newsletters",
+        "description": "Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks ",
+        "stars": 1344,
+        "topics": [
+            "cybersecurity",
+            "newsletter"
+        ]
+    },
+    {
+        "name": "awesome-detection-engineering",
+        "html_url": "https://github.com/infosecB/awesome-detection-engineering",
+        "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
+        "stars": 1301,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "detection-engineering",
+            "mitre",
+            "splunk",
+            "threat-detection"
+        ]
+    },
+    {
+        "name": "awesome-annual-security-reports",
+        "html_url": "https://github.com/jacobdjwilson/awesome-annual-security-reports",
+        "description": "A curated list of annual cyber security reports",
+        "stars": 1150,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cyber-security",
+            "cybersecurity",
+            "reporting",
+            "threat-hunting",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "awesome-rl-for-cybersecurity",
+        "html_url": "https://github.com/Kim-Hammar/awesome-rl-for-cybersecurity",
+        "description": "A curated list of resources dedicated to reinforcement learning applied to cyber security. ",
+        "stars": 1068,
+        "topics": []
+    },
+    {
+        "name": "chepy",
+        "html_url": "https://github.com/securisec/chepy",
+        "description": "Chepy is a python lib/cli equivalent of the awesome CyberChef tool. ",
+        "stars": 1048,
+        "topics": [
+            "cli",
+            "cyber",
+            "cyberchef",
+            "cybersecurity",
+            "data-format",
+            "python-library",
+            "python3"
+        ]
+    },
+    {
+        "name": "awesome-anti-forensic",
+        "html_url": "https://github.com/shadawck/awesome-anti-forensic",
+        "description": "Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.",
+        "stars": 1019,
+        "topics": [
+            "anti-forensic",
+            "anti-forensics",
+            "antiforensics",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "forensic-analysis",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-soc-analyst",
+        "html_url": "https://github.com/LetsDefend/awesome-soc-analyst",
+        "description": "Useful resources for SOC Analyst and SOC Analyst candidates.",
+        "stars": 973,
+        "topics": [
+            "awesome-list",
+            "cybersecurity",
+            "security",
+            "soc-analyst"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-blueteam-cn",
+        "html_url": "https://github.com/satan1a/awesome-cybersecurity-blueteam-cn",
+        "description": "\u7f51\u7edc\u5b89\u5168 \u00b7 \u653b\u9632\u5bf9\u6297 \u00b7 \u84dd\u961f\u6e05\u5355\uff0c\u4e2d\u6587\u7248",
+        "stars": 964,
+        "topics": [
+            "attack-defense",
+            "awesome",
+            "blue-team",
+            "chinese-translation",
+            "cybersecurity"
+        ]
+    },
+    {
+        "name": "Awesome-Blackhat-Tools",
+        "html_url": "https://github.com/UCYBERS/Awesome-Blackhat-Tools",
+        "description": "A curated list of tools officially presented at Black Hat events",
+        "stars": 929,
+        "topics": [
+            "appsec",
+            "awesome-list",
+            "blackhat",
+            "blue-teaming",
+            "cybersecurity",
+            "defensive-security",
+            "forensics",
+            "hacker-tools",
+            "hacking",
+            "hacking-tools",
+            "infosec",
+            "malware-analysis",
+            "offensive-security",
+            "osint",
+            "pentesting",
+            "red-teaming",
+            "reverse-engineering",
+            "security-tools",
+            "ucybers",
+            "ucybers-tools"
+        ]
+    },
+    {
+        "name": "awesome-list-of-secrets-in-environment-variables",
+        "html_url": "https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables",
+        "description": "\ud83e\udd84\ud83d\udd12 Awesome list of secrets in environment variables \ud83d\udda5\ufe0f",
+        "stars": 909,
+        "topics": [
+            "blue-team",
+            "bugbounttips",
+            "bugbounty",
+            "cve-2021-44228",
+            "cybersecurity",
+            "exploit",
+            "log4j",
+            "pentesting",
+            "poc",
+            "red-team",
+            "security",
+            "security-writeups",
+            "writeups"
+        ]
+    },
+    {
+        "name": "netlas-cookbook",
+        "html_url": "https://github.com/netlas-io/netlas-cookbook",
+        "description": "The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.",
+        "stars": 880,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "bugbounty",
+            "cybersecurity",
+            "osint",
+            "pentest"
+        ]
+    },
+    {
+        "name": "Awesome-AI-Security",
+        "html_url": "https://github.com/TalEliyahu/Awesome-AI-Security",
+        "description": "Curated resources, research, and tools for securing AI systems",
+        "stars": 830,
+        "topics": [
+            "artificial-intelligence",
+            "cybersecurity"
+        ]
+    },
+    {
+        "name": "edu-resources",
+        "html_url": "https://github.com/CSIRT-MU/edu-resources",
+        "description": "An awesome list of cybersecurity educational resources",
+        "stars": 746,
+        "topics": []
+    },
+    {
+        "name": "Cybersecurity-Books",
+        "html_url": "https://github.com/zealraj/Cybersecurity-Books",
+        "description": "Here you will get awesome collection of mostly all well-known and usefull cybersecurity books from beginner level to expert for all cybersecurity positions ",
+        "stars": 675,
+        "topics": []
+    },
+    {
+        "name": "awesome-ios-security",
+        "html_url": "https://github.com/Cy-clon3/awesome-ios-security",
+        "description": "A curated list of awesome iOS application security resources.",
+        "stars": 666,
+        "topics": [
+            "application-security",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "ios",
+            "pentesting",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-cicd-attacks",
+        "html_url": "https://github.com/TupleType/awesome-cicd-attacks",
+        "description": "Practical resources for offensive CI/CD security research. Curated the best resources I've seen since 2021.",
+        "stars": 613,
+        "topics": [
+            "appsec",
+            "awesome",
+            "awesome-list",
+            "bugbounty",
+            "cicd",
+            "cybersecurity",
+            "devesecops",
+            "hacking",
+            "infosec",
+            "offensive-security",
+            "penetration-testing",
+            "research",
+            "tools"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-internships",
+        "html_url": "https://github.com/paralax/awesome-cybersecurity-internships",
+        "description": "a list of cybersecurity internships",
+        "stars": 581,
+        "topics": []
+    },
+    {
+        "name": "All-In-One-CyberSecurity-Resources",
+        "html_url": "https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources",
+        "description": "List of CyberSecurity Resources and some different Sub-Domains of CyberSecurity ",
+        "stars": 576,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "binary-exploitation",
+            "collections",
+            "cybersecurity",
+            "exploit-development",
+            "hacking",
+            "ics",
+            "infosec",
+            "learning",
+            "penetration-testing",
+            "prerequisites",
+            "redteaming",
+            "resources",
+            "scada",
+            "web-application-security"
+        ]
+    },
+    {
+        "name": "awesome_threat_intel_blogs",
+        "html_url": "https://github.com/muchdogesec/awesome_threat_intel_blogs",
+        "description": "A curated list of Awesome Threat Intelligence Blogs",
+        "stars": 555,
+        "topics": [
+            "atom",
+            "cybersecurity",
+            "infosec",
+            "rss",
+            "threat-intel",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "Awesome-hacking-tools",
+        "html_url": "https://github.com/awake1t/Awesome-hacking-tools",
+        "description": " \u6536\u96c6\u7f51\u4e0a\u597d\u7528\u3001\u5b9e\u7528\u7684\u7ea2\u84dd\u5bf9\u6297\u6b66\u5668\u3002\u4ece\u8d44\u4ea7\u626b\u63cf\u3001\u6cc4\u6f0f\u626b\u63cf\u3001\u4fe1\u606f\u6536\u96c6\u3001\u6f0f\u6d1e\u626b\u63cf\u3001SRC\u6279\u91cf\u6316\u6398\u3001\u5185\u7f51\u6e17\u900f\u3001\u5e94\u6025\u54cd\u5e94\u7b49\u7b49\u5de5\u5177\u3002 \u5927\u90e8\u5206\u6211\u90fd\u7528\u8fc7\u3001\u90e8\u5206\u4f1a\u5199\u4e0a\u81ea\u5df1\u7684\u611f\u60f3\u4e0e\u5efa\u8bae\uff0c\u5e0c\u671b\u5bf9\u4f60\u6709\u5e2e\u52a9",
+        "stars": 535,
+        "topics": [
+            "awesome",
+            "awsome-list",
+            "cybersecurity",
+            "hack-tool",
+            "hacking",
+            "pentest",
+            "pentest-tool",
+            "pentesting"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-agentic-ai",
+        "html_url": "https://github.com/raphabot/awesome-cybersecurity-agentic-ai",
+        "description": null,
+        "stars": 517,
+        "topics": []
+    },
+    {
+        "name": "awesome-llm-cybersecurity-tools",
+        "html_url": "https://github.com/tenable/awesome-llm-cybersecurity-tools",
+        "description": "A curated list of large language model tools for cybersecurity research.",
+        "stars": 489,
+        "topics": []
+    },
+    {
+        "name": "guia-ackercode",
+        "html_url": "https://github.com/alestanalves/guia-ackercode",
+        "description": "Guia Acker Code de Programa\u00e7\u00e3o e Hacking",
+        "stars": 397,
+        "topics": [
+            "ackercode",
+            "awesome",
+            "awesome-hacking",
+            "awesome-list",
+            "awesome-python",
+            "cybersecurity",
+            "ethical-hacking",
+            "guia",
+            "guia-ackercode",
+            "guia-de-estudos",
+            "guia-hacking",
+            "guia-python",
+            "hacking",
+            "hacking-roadmap",
+            "hardware-hacking",
+            "python",
+            "python-roadmap"
+        ]
+    },
+    {
+        "name": "Awesome-FOFA",
+        "html_url": "https://github.com/FofaInfo/Awesome-FOFA",
+        "description": "The FOFA Library collects usage tips, common scenarios, F&Q, and more for FOFA.",
+        "stars": 343,
+        "topics": [
+            "cybersecurity",
+            "fofa",
+            "osint",
+            "search-engine",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "Awesome-LLM4Security",
+        "html_url": "https://github.com/liu673/Awesome-LLM4Security",
+        "description": "This project aims to consolidate and share high-quality resources and tools across the cybersecurity domain.",
+        "stars": 339,
+        "topics": [
+            "cybersecurity",
+            "llm",
+            "sec",
+            "security",
+            "security-tools",
+            "tools"
+        ]
+    },
+    {
+        "name": "Awesome-Search-Engines-for-Cybersecurity-Researchers",
+        "html_url": "https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers",
+        "description": "Awesome list of Search Engines for Cybersecurity Researchers",
+        "stars": 333,
+        "topics": [
+            "cybersecurity-researchers",
+            "osint",
+            "search-engine"
+        ]
+    },
+    {
+        "name": "Awesome_Incident_Response",
+        "html_url": "https://github.com/hevnsnt/Awesome_Incident_Response",
+        "description": "Awesome Incident Response",
+        "stars": 294,
+        "topics": [
+            "blueteam",
+            "crisis-management",
+            "cybersecurity",
+            "incident-response"
+        ]
+    },
+    {
+        "name": "Free-Official-Youtube-Content",
+        "html_url": "https://github.com/SuperAB123/Free-Official-Youtube-Content",
+        "description": "Awesome list of Official YouTube Channels offering Free Official Content like Movies, Anime, Cartoons, Documentaries, TV Shows, Sports, VFX Breakdown",
+        "stars": 293,
+        "topics": [
+            "anime",
+            "cybersecurity",
+            "documentary",
+            "esports",
+            "film",
+            "hacktoberfest",
+            "kids",
+            "list",
+            "markdown",
+            "movies-streaming",
+            "official",
+            "series",
+            "space",
+            "sports",
+            "streaming",
+            "tv",
+            "tv-series",
+            "tv-shows",
+            "youtube",
+            "youtube-videos"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-conferences",
+        "html_url": "https://github.com/TalEliyahu/awesome-cybersecurity-conferences",
+        "description": "Discover and watch the latest cybersecurity conference talks. A curated archive of public security conference content.",
+        "stars": 285,
+        "topics": [
+            "cfp",
+            "conference",
+            "cybersecurity",
+            "event"
+        ]
+    },
+    {
+        "name": "awesome-malware",
+        "html_url": "https://github.com/fabacab/awesome-malware",
+        "description": ":computer::warning: A curated collection of awesome malware, botnets, and other post-exploitation tools.",
+        "stars": 274,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "computer-security",
+            "cybersecurity",
+            "malware",
+            "post-exploitation"
+        ]
+    },
+    {
+        "name": "Awesome-AI-for-cybersecurity",
+        "html_url": "https://github.com/Billy1900/Awesome-AI-for-cybersecurity",
+        "description": "Awesome list of AI for cybersecurity including network (network traffic analysis and intrusion detection), endpoint (anti-malware), application (WAF or database firewalls), user (UBA), process behavior (anti-fraud).",
+        "stars": 261,
+        "topics": [
+            "anti-malware",
+            "anti-spam",
+            "firewall",
+            "intrusion-detection",
+            "machine-learning"
+        ]
+    },
+    {
+        "name": "Awesome-Laws",
+        "html_url": "https://github.com/Threekiii/Awesome-Laws",
+        "description": "\u4e00\u4e2a\u7f51\u7edc\u5b89\u5168\u76f8\u5173\u6cd5\u5f8b\u6cd5\u89c4\u3001\u5b89\u5168\u653f\u7b56\u3001\u56fd\u5bb6\u6807\u51c6\u3001\u884c\u4e1a\u6807\u51c6\u77e5\u8bc6\u5e93\u3002A knowledge base of cybersecurity policies, laws, guidelines, and technical standards.",
+        "stars": 253,
+        "topics": [
+            "cybersecurity",
+            "guidelines",
+            "laws",
+            "policies"
+        ]
+    },
+    {
+        "name": "cybersecurity",
+        "html_url": "https://github.com/paulveillard/cybersecurity",
+        "description": "Welcome Cybersecurity's World. An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources in Cybersecurity.",
+        "stars": 238,
+        "topics": [
+            "computer-architecture",
+            "computer-security",
+            "cryptography",
+            "cyber-physical-systems",
+            "cybersecurity",
+            "cybersecurity-awareness",
+            "cybersecurity-blog",
+            "cybersecurity-career-path",
+            "cybersecurity-education",
+            "cybersecurity-incidents",
+            "defensive-security",
+            "security",
+            "security-audit",
+            "security-automation",
+            "security-hardening",
+            "security-testing",
+            "security-tools",
+            "security-vulnerability"
+        ]
+    },
+    {
+        "name": "awesome-sec-challenges",
+        "html_url": "https://github.com/mikeprivette/awesome-sec-challenges",
+        "description": "A curated list of Awesome Security Challenges.",
+        "stars": 211,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "crypto",
+            "ctf-challenges",
+            "ctf-site",
+            "cybersecurity",
+            "security",
+            "security-challenges"
+        ]
+    },
+    {
+        "name": "awesome-wifi-security",
+        "html_url": "https://github.com/edelahozuah/awesome-wifi-security",
+        "description": "A collection of awesome resources related to 802.11 security, tools and other things ",
+        "stars": 173,
+        "topics": [
+            "cybersecurity",
+            "wifi"
+        ]
+    },
+    {
+        "name": "awesome-recon-tools",
+        "html_url": "https://github.com/nateahess/awesome-recon-tools",
+        "description": "A compiled list of tools for reconnaissance and footprinting",
+        "stars": 171,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "footprinting",
+            "recon",
+            "reconnaissance",
+            "red-team",
+            "security"
+        ]
+    },
+    {
+        "name": "recommendations-for-engineers",
+        "html_url": "https://github.com/pyxelr/recommendations-for-engineers",
+        "description": "\ud83d\udcda All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.",
+        "stars": 165,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "data-science",
+            "lists",
+            "machine-learning",
+            "macos",
+            "mlops",
+            "pyxelr-setup",
+            "resources",
+            "windows"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity",
+        "html_url": "https://github.com/Annsec/awesome-cybersecurity",
+        "description": "Curated list of awesome cybersecurity companies and solutions.",
+        "stars": 161,
+        "topics": [
+            "cybersecurity",
+            "malware",
+            "security",
+            "siem",
+            "threatintel"
+        ]
+    },
+    {
+        "name": "awesome-blackhat-arsenal",
+        "html_url": "https://github.com/elbraino/awesome-blackhat-arsenal",
+        "description": "Curated collection of cybersecurity tools featured in Black Hat Arsenal events.",
+        "stars": 159,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "blackhat-arsenal",
+            "blue-teaming",
+            "cybersecurity",
+            "defensive-security",
+            "hacking-tools",
+            "malware-analysis",
+            "network-security",
+            "offensive-security",
+            "open-source-security",
+            "osint",
+            "osint-tool",
+            "red-teaming",
+            "reverse-engineering",
+            "security-tools",
+            "threat-detection",
+            "web-security"
+        ]
+    },
+    {
+        "name": "awesome-security-feed",
+        "html_url": "https://github.com/mrtouch93/awesome-security-feed",
+        "description": "A semi-curated list of Security Feeds",
+        "stars": 151,
+        "topics": [
+            "awesome-list",
+            "cybersecurity",
+            "feeds",
+            "hacking",
+            "offensive-security",
+            "security-news"
+        ]
+    },
+    {
+        "name": "awesome-free-cybersecurity",
+        "html_url": "https://github.com/her0marodeur/awesome-free-cybersecurity",
+        "description": "A curated list of free cybersecurity learning resources.",
+        "stars": 150,
+        "topics": []
+    },
+    {
+        "name": "awesome-ai-cybersecurity",
+        "html_url": "https://github.com/ElNiak/awesome-ai-cybersecurity",
+        "description": "Welcome to the ultimate list of resources for AI in cybersecurity. This repository aims to provide an organized collection of high-quality resources to help professionals, researchers, and enthusiasts stay updated and advance their knowledge in the field.",
+        "stars": 148,
+        "topics": [
+            "ai",
+            "artificial-intelligence",
+            "awesome",
+            "awesome-list",
+            "chatgpt",
+            "classification",
+            "cybersecurity",
+            "deep-learning",
+            "deep-neural-networks",
+            "llm",
+            "machine-learning",
+            "malware-detection",
+            "pentesting",
+            "research-paper",
+            "tools"
+        ]
+    },
+    {
+        "name": "Awesome-AI-For-Security",
+        "html_url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security",
+        "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on modern AI technologies like Large Language Models (LLMs), Agents, and Multi-Modal systems and their applications in security operations.",
+        "stars": 139,
+        "topics": [
+            "agent",
+            "agents",
+            "ai",
+            "ai-for-security",
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "awesome-readme",
+            "awesome-resources",
+            "cyber-security",
+            "cybersecurity",
+            "cybersecurity-education",
+            "llm",
+            "llm-agent",
+            "llm-agents",
+            "llm-inference",
+            "llms",
+            "security",
+            "security-automation",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "awesome-playbooks",
+        "html_url": "https://github.com/luduslibrum/awesome-playbooks",
+        "description": "A curated repository of incident response playbooks",
+        "stars": 135,
+        "topics": [
+            "cybersecurity",
+            "incident-response",
+            "playbook",
+            "security-automation",
+            "security-orchestration",
+            "soar"
+        ]
+    },
+    {
+        "name": "awesome-ai-security-tools",
+        "html_url": "https://github.com/scadastrangelove/awesome-ai-security-tools",
+        "description": "A curated list of public-source, research, and commercial tools for AI security and AI-assisted cybersecurity \u2014 autotriage, agent security, AI/ML supply chain, pentest agents, AI SAST, LLM-driven fuzzing, threat intelligence, SOC/SIEM triage, reverse engineering, LLM red-teaming, and more.",
+        "stars": 134,
+        "topics": [
+            "agentic-ai",
+            "agents",
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "llm",
+            "security"
+        ]
+    },
+    {
+        "name": "cybersecurity-self-hosted",
+        "html_url": "https://github.com/paulveillard/cybersecurity-self-hosted",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Self Hosting. ",
+        "stars": 129,
+        "topics": [
+            "client-apps",
+            "client-automation",
+            "css-framework",
+            "domains",
+            "hosted",
+            "hostedservices",
+            "hosting",
+            "hosting-aws",
+            "hosting-local",
+            "json-api",
+            "self-hosted",
+            "self-hosted-api",
+            "self-hosted-bot",
+            "self-hosting",
+            "self-service",
+            "self-supervised-learning",
+            "vpc",
+            "vps",
+            "web-server"
+        ]
+    },
+    {
+        "name": "awesome-deception",
+        "html_url": "https://github.com/tracebit-com/awesome-deception",
+        "description": "An awesome collection of articles, papers, conferences, guides, and tools relating to deception in cybersecurity.",
+        "stars": 128,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "cybersecurity",
+            "deception",
+            "deception-technology",
+            "honeypot",
+            "honeypots"
+        ]
+    },
+    {
+        "name": "Awesome-Offensive-AI-Agentic-Landscape",
+        "html_url": "https://github.com/Yeti-791/Awesome-Offensive-AI-Agentic-Landscape",
+        "description": "This document curates open-source projects, academic papers, capability benchmarks, and commercial solutions (international & China) in AI penetration testing, LLM red teaming, autonomous offensive agents, and vulnerability discovery\u2014aimed at helping researchers, security engineers, and enterprise decision-makers quickly form a holistic view.",
+        "stars": 126,
+        "topics": [
+            "ai-benchmarks",
+            "ai-hacking",
+            "ai-pentesting",
+            "ai-red-teaming",
+            "ai-security",
+            "autonomous-penetration",
+            "awesome-list",
+            "ctf",
+            "cybersecurity",
+            "hacking-agents",
+            "hacking-tool",
+            "intelligent-penetration",
+            "llm-security",
+            "offensive-ai",
+            "offensive-security",
+            "pentest",
+            "pentest-tool",
+            "redteam",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "cybersecurity-SOAR",
+        "html_url": "https://github.com/paulveillard/cybersecurity-SOAR",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Orchestration, Automation and Response (SOAR).",
+        "stars": 124,
+        "topics": [
+            "compliance-as-code",
+            "compliant",
+            "cyber-threat-intelligence",
+            "design-patterns",
+            "hacking-tools",
+            "incident-management",
+            "incident-matrix",
+            "incident-response",
+            "ios-hacking",
+            "orchestration",
+            "orchestration-services",
+            "os-hardening",
+            "regulatory",
+            "scalability",
+            "scalable-applications",
+            "security-hardening",
+            "siem",
+            "soar"
+        ]
+    },
+    {
+        "name": "cybersecurity-dark-web",
+        "html_url": "https://github.com/paulveillard/cybersecurity-dark-web",
+        "description": " A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.",
+        "stars": 118,
+        "topics": [
+            "cybercrime-prevention",
+            "dark-network",
+            "dark-web",
+            "dark-websites",
+            "darknet",
+            "darknet-python",
+            "darknet-yolo",
+            "darkweb",
+            "deep-web",
+            "deepweb",
+            "ethical-artificial-intelligence",
+            "ethical-hacker",
+            "ethical-hacking",
+            "penetration",
+            "penetration-test",
+            "penetration-testing",
+            "penetration-testing-tools"
+        ]
+    },
+    {
+        "name": "awesome-openid-connect",
+        "html_url": "https://github.com/cerberauth/awesome-openid-connect",
+        "description": "OpenID Connect, the authentication protocol and identity layer on top of OAuth 2.0 used in many SSO and adopted in many social logins (Apple, Facebook, Google, ...etc). Find this curated list of providers, services, libraries, and resources to adopt it and know more about existing specs.",
+        "stars": 118,
+        "topics": [
+            "authorization",
+            "awesome",
+            "awesome-list",
+            "ciam",
+            "cybersecurity",
+            "fapi",
+            "iam",
+            "identity",
+            "mcp",
+            "oauth",
+            "oauth2",
+            "oidc",
+            "openid-connect",
+            "openidconnect",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-learning-resources",
+        "html_url": "https://github.com/jassics/awesome-cybersecurity-learning-resources",
+        "description": "Learning resources for cybersecurity including youtube, github, books, videos, courses, labs, articles etc. at one place",
+        "stars": 112,
+        "topics": [
+            "cybersecurity",
+            "cybersecurity-awareness",
+            "cybersecurity-blog",
+            "cybersecurity-education",
+            "cybersecurity-references",
+            "cybersecurity-resources",
+            "cybersecurity-training",
+            "learning-resources",
+            "security-book",
+            "security-learning"
+        ]
+    },
+    {
+        "name": "awesome-cyber",
+        "html_url": "https://github.com/landoncrabtree/awesome-cyber",
+        "description": "A curated list of tools useful within the field of cyber security, for both blue and red team operations. ",
+        "stars": 109,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "blueteam",
+            "c2",
+            "command-and-control",
+            "cybersecurity",
+            "defense-evasion",
+            "deobfuscation",
+            "hacking",
+            "initial-access",
+            "malware-analysis",
+            "osint",
+            "post-exploitation",
+            "reconnaissance",
+            "redteam",
+            "reverse-engineering",
+            "reverse-enginnering",
+            "social-engineering"
+        ]
+    },
+    {
+        "name": "security-engineer-interview-collection",
+        "html_url": "https://github.com/exajobs/security-engineer-interview-collection",
+        "description": "FAANG (MANGA) Security Engineer Interview Collection. An ongoing & curated collection of awesome software, frameworks and libraries, learning tutorials and videos, technical guidelines and best practices, and cheatsheets in the world of Security Engineering Career.",
+        "stars": 108,
+        "topics": [
+            "cryptography",
+            "cybersecurity",
+            "defense-in-depth",
+            "faang",
+            "faang-interview",
+            "faang-preparation",
+            "security",
+            "security-by-design",
+            "security-engineer-interview",
+            "security-engineering"
+        ]
+    },
+    {
+        "name": "awesome-chinese-law",
+        "html_url": "https://github.com/XiaomingX/awesome-chinese-law",
+        "description": "\u4e00\u4e2a\u7f51\u7edc\u5b89\u5168\u6cd5\u5f8b\u6cd5\u89c4\u3001\u5b89\u5168\u653f\u7b56\u3001\u56fd\u5bb6\u6807\u51c6\u3001\u884c\u4e1a\u6807\u51c6\u77e5\u8bc6\u5e93\u3002A knowledge base of cybersecurity laws and regulations, security policies, national standards, and industry standards.",
+        "stars": 105,
+        "topics": [
+            "awesome",
+            "chinese",
+            "crawler",
+            "law",
+            "security",
+            "spider"
+        ]
+    },
+    {
+        "name": "cybersecurity-red-team",
+        "html_url": "https://github.com/paulveillard/cybersecurity-red-team",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Red Team (Offensive) in Cybersecurity.",
+        "stars": 104,
+        "topics": [
+            "blue-team",
+            "cybersecurity",
+            "penetration-resistance-modeling",
+            "penetration-testing",
+            "red-team",
+            "red-teaming",
+            "red-teams",
+            "security-tools",
+            "security-vulnerability-assessment",
+            "technical-analysis",
+            "threat-intelligence",
+            "threat-modeling"
+        ]
+    },
+    {
+        "name": "awesome-reference",
+        "html_url": "https://github.com/agussetyar/awesome-reference",
+        "description": " Reference list of useful links to learn about programming, networking, hacking, cybersecurity, ctf, bounty bug write-up, and more",
+        "stars": 103,
+        "topics": [
+            "bugbounty",
+            "cybersecurity",
+            "hacking",
+            "networking",
+            "programming"
+        ]
+    },
+    {
+        "name": "awesome-compliance",
+        "html_url": "https://github.com/getprobo/awesome-compliance",
+        "description": "A curated list of tools, frameworks, and resources for IT compliance, security standards, and regulatory requirements",
+        "stars": 96,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "compliance",
+            "cybersecurity",
+            "esg",
+            "fedram",
+            "gouvernance",
+            "grc",
+            "iso2700",
+            "nist",
+            "policy",
+            "risk-management",
+            "security",
+            "soc2"
+        ]
+    },
+    {
+        "name": "awesome-business-of-cybersecurity",
+        "html_url": "https://github.com/TalEliyahu/awesome-business-of-cybersecurity",
+        "description": "Explore cybersecurity\u2019s market dynamics through public companies, capital flows, acquisitions, and product segments.",
+        "stars": 95,
+        "topics": [
+            "artificial-intelligence",
+            "business",
+            "business-intelligence",
+            "cybersecurity",
+            "infosec",
+            "investment",
+            "security",
+            "stock-market",
+            "venturecapital"
+        ]
+    },
+    {
+        "name": "cybersecurity-penetration-testing",
+        "html_url": "https://github.com/paulveillard/cybersecurity-penetration-testing",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Penetration Testing in Cybersecurity.",
+        "stars": 95,
+        "topics": [
+            "cybersecurity",
+            "cybersecurity-education",
+            "penetration",
+            "penetration-test-framework",
+            "penetration-tester",
+            "penetration-testing",
+            "penetration-testing-tools",
+            "pentest-scripts",
+            "pentest-tool",
+            "pentester",
+            "pentesting",
+            "pentesting-networks",
+            "pentesting-windows",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "awesome-openbsd-desktop",
+        "html_url": "https://github.com/raffaelschneider/awesome-openbsd-desktop",
+        "description": "A curated list of awesome applications, software, tools, and resources for using OpenBSD as a daily driver.",
+        "stars": 93,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "openbsd",
+            "unix"
+        ]
+    },
+    {
+        "name": "awesome-security-for-ai",
+        "html_url": "https://github.com/zmre/awesome-security-for-ai",
+        "description": "Awesome products for securing AI systems includes open source and commercial options and an infographic licensed CC-BY-SA-4.0.",
+        "stars": 92,
+        "topics": [
+            "ai",
+            "appsec",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "genai",
+            "lists",
+            "llm",
+            "machine-learning",
+            "ml",
+            "mlops",
+            "privacy",
+            "resources",
+            "security"
+        ]
+    },
+    {
+        "name": "cybersecurity-interview-questions",
+        "html_url": "https://github.com/paulveillard/cybersecurity-interview-questions",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Interview for Security & Computer Engineering.",
+        "stars": 89,
+        "topics": [
+            "amazon-interview-practice",
+            "amazon-interview-preparation",
+            "devops-engineer",
+            "facebook-interview",
+            "google-interview",
+            "interview",
+            "interview-practice",
+            "interview-preparation",
+            "interview-questions",
+            "interview-test",
+            "leetcode",
+            "leetcode-solutions",
+            "sde",
+            "sde-cheatsheet",
+            "security-engineer",
+            "software-engineer"
+        ]
+    },
+    {
+        "name": "awesome-article-collection",
+        "html_url": "https://github.com/Olanetsoft/awesome-article-collection",
+        "description": "Curated articles by writers, both technical and non-technical. This was made specifically to encourage content creators to discover their strengths and consistently produce quality articles. You are welcome to participate by sending a PR.",
+        "stars": 89,
+        "topics": [
+            "angular",
+            "articles",
+            "creators",
+            "cybersecurity",
+            "design",
+            "documentation",
+            "golang",
+            "hacktoberfest",
+            "hacktoberfest-accepted",
+            "javascript",
+            "law",
+            "networking",
+            "nodejs",
+            "product",
+            "project-management",
+            "react",
+            "rust",
+            "solidity",
+            "vuejs",
+            "web"
+        ]
+    },
+    {
+        "name": "awesome-practice-projects",
+        "html_url": "https://github.com/labex-labs/awesome-practice-projects",
+        "description": "Guided programming projects for practical skill building by LabEx.",
+        "stars": 87,
+        "topics": [
+            "cybersecurity",
+            "cybersecurity-engineer",
+            "devops",
+            "devops-engineer",
+            "devsecops",
+            "exercises",
+            "git",
+            "hands-on",
+            "kali",
+            "labex",
+            "labex-projects",
+            "lfcs",
+            "linux",
+            "practice-projects",
+            "programming",
+            "projects",
+            "rhce-enterprise-linux",
+            "rhcsa",
+            "rhel",
+            "shell"
+        ]
+    },
+    {
+        "name": "Awesome-SRC-experience",
+        "html_url": "https://github.com/owl234/Awesome-SRC-experience",
+        "description": "\ud83d\ude80 \u73b0\u4ee3\u5316 SRC \u6f0f\u6d1e\u6316\u6398\u4e0e\u5b89\u5168\u653b\u9632\u5b9e\u6218\u77e5\u8bc6\u5e93\u3002\u96f6\u95e8\u69db\u5171\u5efa\uff0c\u5206\u4eab\u9ad8\u8d28\u91cf\u6316\u6d1e\u7ecf\u9a8c\u4e0e\u81ea\u52a8\u5316\u6b66\u5668\u3002",
+        "stars": 82,
+        "topics": [
+            "awesome-list",
+            "bug-bounty",
+            "cybersecurity",
+            "penetration-testing",
+            "red-team",
+            "security",
+            "src",
+            "vulnerability"
+        ]
+    },
+    {
+        "name": "cybersecurity-architecture",
+        "html_url": "https://github.com/paulveillard/cybersecurity-architecture",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Software  & Systems Architecture in Cybersecurity",
+        "stars": 81,
+        "topics": [
+            "cybersecurity-education",
+            "design-patterns",
+            "design-thinking",
+            "designer",
+            "high-availability",
+            "high-performance-computing",
+            "metrics",
+            "performance-monitoring",
+            "scalability",
+            "scale",
+            "scale-up",
+            "secure-backup",
+            "secure-boot",
+            "secure-by-default",
+            "secure-by-design",
+            "secure-coding",
+            "secure-computation",
+            "secure-storage",
+            "security-in-artificial-intelligence",
+            "software-engineering"
+        ]
+    },
+    {
+        "name": "The-Awesome-And-Dangerous-collection",
+        "html_url": "https://github.com/maxamin/The-Awesome-And-Dangerous-collection",
+        "description": "A high-risk archive of historical malware, exploit kits, crypters, and webshells for educational and cybersecurity research purposes. None of this code is authored by the repository owner, and no responsibility is taken for misuse,\ud83d\udd12 Intended Audience: Cybersecurity researchers, malware analysts...",
+        "stars": 80,
+        "topics": [
+            "cyber-security",
+            "cybersecurity",
+            "malware",
+            "malware-analysis",
+            "malware-detection",
+            "malware-research",
+            "malware-samples",
+            "malwareanalysis",
+            "shell-script",
+            "shellcode"
+        ]
+    },
+    {
+        "name": "Awesome-ML-Cybersecurity",
+        "html_url": "https://github.com/opensci-hub/Awesome-ML-Cybersecurity",
+        "description": "Machine Learning For Cybersecurity.",
+        "stars": 76,
+        "topics": [
+            "awesome-list",
+            "cyber-security",
+            "machine-learning"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity",
+        "html_url": "https://github.com/secnotes/awesome-cybersecurity",
+        "description": "A collection of awesome github repositories about security",
+        "stars": 74,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "resources",
+            "security"
+        ]
+    },
+    {
+        "name": "cybersecurity-devsecops",
+        "html_url": "https://github.com/paulveillard/cybersecurity-devsecops",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about DevSecOps in Cybersecurity.",
+        "stars": 70,
+        "topics": [
+            "cybersecurity",
+            "cybersecurity-education",
+            "devops",
+            "devsecops",
+            "secops",
+            "security-automation",
+            "security-by-design",
+            "security-compliance",
+            "security-development",
+            "security-education",
+            "security-enablement",
+            "security-engineering",
+            "security-lab",
+            "security-management",
+            "security-tools",
+            "security-vulnerability"
+        ]
+    },
+    {
+        "name": "cybersecurity-build-your-own-x",
+        "html_url": "https://github.com/paulveillard/cybersecurity-build-your-own-x",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about building your own x in security.",
+        "stars": 68,
+        "topics": [
+            "build-agent",
+            "build-apps",
+            "build-artifacts",
+            "build-automation",
+            "build-blockchain",
+            "build-bot",
+            "build-bridge",
+            "build-cache",
+            "build-codebuild",
+            "build-config",
+            "build-configuration",
+            "build-container",
+            "build-system"
+        ]
+    },
+    {
+        "name": "awesome-chatgpt-prompts-cybersecurity",
+        "html_url": "https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity",
+        "description": "\u7f51\u7edc\u5b89\u5168chatgpt\u6307\u4ee4\u96c6\uff0c\u8bad\u7ec3chatgpt\u6210\u4e3a\u4e00\u540d\u7f51\u7edc\u5b89\u5168\u4e13\u5bb6",
+        "stars": 67,
+        "topics": [
+            "blueteam",
+            "chatgpt",
+            "cybersecurity",
+            "hacker",
+            "pantest",
+            "prompts",
+            "redteam"
+        ]
+    },
+    {
+        "name": "cybersecurity-macOS",
+        "html_url": "https://github.com/paulveillard/cybersecurity-macOS",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about macOS Security.",
+        "stars": 67,
+        "topics": [
+            "bigsur",
+            "development-setup",
+            "imac",
+            "m1-extension",
+            "m1-mac",
+            "macbook",
+            "macbook-air",
+            "macbook-pro",
+            "macbook-setup",
+            "macbook-touchpad",
+            "macintosh-computer",
+            "macos",
+            "macos-app",
+            "macos-application",
+            "macos-catalina",
+            "macos-mojave",
+            "macos-swift",
+            "macosx",
+            "swift",
+            "xcode13"
+        ]
+    },
+    {
+        "name": "Awesome-Splunk-and-Elastic-SIEM-Practice-Labs",
+        "html_url": "https://github.com/ChickenLoner/Awesome-Splunk-and-Elastic-SIEM-Practice-Labs",
+        "description": "This repository dedicated to collect SIEM practice labs (Splunk and Elastic) from various cybersecurity training platforms",
+        "stars": 66,
+        "topics": []
+    },
+    {
+        "name": "awesome-soc-analyst",
+        "html_url": "https://github.com/st0pp3r/awesome-soc-analyst",
+        "description": "Online resources related to SOC Analysts. Incident investigation reference material, blogs, newsletters, good reads, books, trainings, podcasts, Twitter/X accounts and a set of tools relevant to the role of SOC analyst.",
+        "stars": 66,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "security",
+            "security-tools",
+            "soc",
+            "soc-analyst",
+            "soc-analysts"
+        ]
+    },
+    {
+        "name": "cybersecurity-threat-intelligence",
+        "html_url": "https://github.com/paulveillard/cybersecurity-threat-intelligence",
+        "description": "An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Intelligence. ",
+        "stars": 65,
+        "topics": [
+            "cyberattack",
+            "cybersecurity",
+            "cyberthreatintelligence",
+            "dashboard",
+            "intel",
+            "maps",
+            "security",
+            "threat-detection-policy",
+            "threat-hunting",
+            "threat-intelligence",
+            "threat-intelligence-data",
+            "threat-intelligence-database",
+            "threat-intelligence-platform",
+            "threat-response"
+        ]
+    },
+    {
+        "name": "cybersecurity-incident-response",
+        "html_url": "https://github.com/paulveillard/cybersecurity-incident-response",
+        "description": " A collection of awesome tools, software, libraries, learning tutorials & videos, frameworks, best practices and technical resources about Incident Response & Management in Cybersecurity",
+        "stars": 64,
+        "topics": [
+            "alerts",
+            "alertsmanager",
+            "cybersecurity-education",
+            "cybersecurity-incident-response",
+            "cybersecurity-incidents",
+            "datadog",
+            "incident",
+            "incident-management",
+            "incident-response",
+            "incident-response-tooling",
+            "incidents-reports",
+            "on-call",
+            "pagerduty",
+            "splunk",
+            "splunk-application",
+            "victorops"
+        ]
+    },
+    {
+        "name": "awesome-privacy-tools",
+        "html_url": "https://github.com/anondotli/awesome-privacy-tools",
+        "description": "Awesome privacy tools: encrypted messaging, anonymous email, VPNs, Tor, password managers, secure file sharing, browser privacy, and self-hosted privacy software.",
+        "stars": 63,
+        "topics": [
+            "anonymity",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "data-protection",
+            "email-alias",
+            "encryption",
+            "end-to-end-encryption",
+            "open-source",
+            "password-manager",
+            "privacy",
+            "privacy-tools",
+            "private",
+            "secure",
+            "secure-messaging",
+            "security",
+            "security-tools",
+            "self-hosted",
+            "tor",
+            "vpn"
+        ]
+    },
+    {
+        "name": "Cybersecurity-Books",
+        "html_url": "https://github.com/pbscybsec/Cybersecurity-Books",
+        "description": "Here you will get awesome collection of mostly all well-known and usefull cybersecurity books from beginner level to expert for all cybersecurity positions.",
+        "stars": 62,
+        "topics": []
+    },
+    {
+        "name": "cybersecurity-infosec",
+        "html_url": "https://github.com/paulveillard/cybersecurity-infosec",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Information Security in Cybersecurity.",
+        "stars": 62,
+        "topics": [
+            "information-security",
+            "information-security-management",
+            "information-security-policies",
+            "information-technology",
+            "infosec",
+            "infrastructure",
+            "it",
+            "it-security",
+            "security",
+            "security-scan",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "awesome-brazilian-youtubers",
+        "html_url": "https://github.com/rcarubbi/awesome-brazilian-youtubers",
+        "description": "\u25b6\ufe0f An awesome list of awesome Brazilian YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
+        "stars": 60,
+        "topics": []
+    },
+    {
+        "name": "cybersecurity-blue-team",
+        "html_url": "https://github.com/paulveillard/cybersecurity-blue-team",
+        "description": "A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Blue Team in Cybersecurity.",
+        "stars": 58,
+        "topics": [
+            "blue",
+            "blue-team",
+            "cyber-threat-intelligence",
+            "cybernetics",
+            "cybersecurity",
+            "vulnerabilities",
+            "vulnerability-identification",
+            "vulnerability-management",
+            "vulnerability-research",
+            "vulnerability-scanners",
+            "vulnerability-scanning"
+        ]
+    },
+    {
+        "name": "awesome-practice-courses",
+        "html_url": "https://github.com/labex-labs/awesome-practice-courses",
+        "description": "Hands-on programming courses for practical learning by LabEx.",
+        "stars": 58,
+        "topics": [
+            "courses",
+            "cybersecurity",
+            "cybersecurity-engineer",
+            "devops",
+            "devops-engineer",
+            "devsecops",
+            "exercises",
+            "hands-on",
+            "kali",
+            "labex",
+            "labex-courses",
+            "labs",
+            "lfcs",
+            "linux",
+            "practice-courses",
+            "programming",
+            "rhce-enterprise-linux",
+            "rhcsa",
+            "rhel",
+            "shell"
+        ]
+    },
+    {
+        "name": "awesome-ai-agents-security",
+        "html_url": "https://github.com/ProjectRecon/awesome-ai-agents-security",
+        "description": "A living map of the AI agent security ecosystem.",
+        "stars": 55,
+        "topics": [
+            "ai-agents",
+            "ai-security",
+            "autonomous-agents",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "generative-ai",
+            "guardrails",
+            "jailbreak",
+            "large-language-models",
+            "llm",
+            "llm-ops",
+            "llm-security",
+            "prompt-injection",
+            "red-teaming",
+            "runtime-protection",
+            "sandboxing",
+            "secure-ai",
+            "static-analysis",
+            "vulnerability-scanners"
+        ]
+    },
+    {
+        "name": "Awesome-LLM-agent-Security",
+        "html_url": "https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security",
+        "description": "All about llm-agents security,attack,vulnerabilities and how to do them for cybersecurity.",
+        "stars": 54,
+        "topics": []
+    },
+    {
+        "name": "awesome-reverse-engineering-and-malware-analysis",
+        "html_url": "https://github.com/ZX41R/awesome-reverse-engineering-and-malware-analysis",
+        "description": "Reverse engineering & malware analysis, curated and verified disassemblers, unpacking, exploit dev, fuzzing, DFIR, and the deep-cut writeups other lists miss.",
+        "stars": 54,
+        "topics": [
+            "awesome-list",
+            "binary-analysis",
+            "binary-exploitation",
+            "ctf",
+            "cybersecurity",
+            "dfir",
+            "exploit-development",
+            "firmware",
+            "fuzzing",
+            "ghidra",
+            "ida-pro",
+            "malware",
+            "malware-analysis",
+            "malware-development",
+            "radare2",
+            "reverse-engineering",
+            "threat-intelligence",
+            "vulnerability-research",
+            "x64dbg",
+            "yara"
+        ]
+    },
+    {
+        "name": "awesome-devsecops-mastery-2026",
+        "html_url": "https://github.com/djvirus9/awesome-devsecops-mastery-2026",
+        "description": "\ud83d\udee1\ufe0f A curated, actionable checklist for securing CI/CD pipelines and Kubernetes clusters in 2026.",
+        "stars": 53,
+        "topics": [
+            "automation",
+            "awesome",
+            "checklist",
+            "cybersecurity",
+            "devsecops",
+            "kubernetes",
+            "security",
+            "techniques"
+        ]
+    },
+    {
+        "name": "cybersecurity-windows-exploitation",
+        "html_url": "https://github.com/paulveillard/cybersecurity-windows-exploitation",
+        "description": "A collection of awesome software, libraries, learning tutorials, documents and books, awesome resources and cool stuff about ARM and Windows Exploitation.",
+        "stars": 52,
+        "topics": [
+            "arm-templates",
+            "arm64",
+            "cybersecurity-search-engine",
+            "executable",
+            "exploitation-framework",
+            "kernel-methods",
+            "kernel-module",
+            "windows",
+            "windows-exploitation",
+            "windows-security",
+            "x86",
+            "x86-kernel"
+        ]
+    },
+    {
+        "name": "awesome-genai-cyberhub",
+        "html_url": "https://github.com/Ashfaaq98/awesome-genai-cyberhub",
+        "description": "A curated list of AI driven Cyber security Resources",
+        "stars": 52,
+        "topics": [
+            "ai",
+            "awesome-list",
+            "cybersecurity",
+            "genai-hub",
+            "llm"
+        ]
+    },
+    {
+        "name": "cybersecurity-threat-detection",
+        "html_url": "https://github.com/paulveillard/cybersecurity-threat-detection",
+        "description": "An ongoing & curated collection of awesome software best practices and remediation techniques, libraries and frameworks, E-books and videos, Technical guidelines and important resources about Threat Detection & Hunting.",
+        "stars": 50,
+        "topics": [
+            "cybersecurity",
+            "encryption-decryption",
+            "malware-analysis",
+            "malware-detection",
+            "malware-development",
+            "security-tools",
+            "security-vulnerability",
+            "threat-analysis",
+            "threat-blocker",
+            "threat-detection",
+            "threat-detection-policy",
+            "threat-explorer",
+            "threat-hunting",
+            "threat-intelligence",
+            "threat-modeling",
+            "threat-monitor",
+            "threat-response"
+        ]
+    },
+    {
+        "name": "Awesome-Hacking",
+        "html_url": "https://github.com/Hunterdii/Awesome-Hacking",
+        "description": "\ud83d\udd10 Welcome to Hack-Academia, your ultimate resource hub for all things \ud83d\udda5\ufe0f hacking, \ud83d\udd27 pentesting, and \ud83d\udee1\ufe0f security research. Whether you are a \ud83c\udf31 beginner looking to explore the world of cybersecurity or a \ud83e\uddd1\u200d\ud83d\udcbb seasoned professional seeking cutting-edge techniques and insights, Hack-Academia is here to empower you. \u26a1",
+        "stars": 50,
+        "topics": [
+            "attacksurface",
+            "awesome",
+            "awesome-list",
+            "bug-bounty",
+            "cheatsheet-god",
+            "cybersecurity",
+            "cybersecurity-tool",
+            "exploitation",
+            "good-first-issue",
+            "hacking",
+            "hacking-tool",
+            "how-to-hack",
+            "information-gathering",
+            "oscp-prep",
+            "passwordattack",
+            "payloads",
+            "reverse-engineering",
+            "roadmap",
+            "security-vulnerability",
+            "web-hacking"
+        ]
+    },
+    {
+        "name": "awesome-iot-and-hardware-security",
+        "html_url": "https://github.com/kayranfatih/awesome-iot-and-hardware-security",
+        "description": "A collection of awesome tools, books, resources, software, documents and cool stuff about IoT and HW security.",
+        "stars": 48,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "embedded",
+            "hardware",
+            "iot",
+            "pentest",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-malware-benign-datasets",
+        "html_url": "https://github.com/0xh3xa/awesome-malware-benign-datasets",
+        "description": "\ud83e\udeb2 A list of malware and benign datasets for malware research",
+        "stars": 46,
+        "topics": [
+            "android",
+            "awesome-list",
+            "cybersecurity",
+            "datasets",
+            "deep-learning",
+            "machine-learning",
+            "malware-analysis",
+            "malware-classification",
+            "malware-dataset",
+            "malware-detection",
+            "malware-research",
+            "malware-researchers",
+            "security-researchers",
+            "windows"
+        ]
+    },
+    {
+        "name": "cybersecurity-container-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-container-security",
+        "description": "An ongoing & curated collection of awesome frameworks, and most important libraries, videos, learning tutorials , tools and and cool stuff about containers.",
+        "stars": 45,
+        "topics": [
+            "container",
+            "container-image",
+            "container-management",
+            "container-orchestration",
+            "container-security",
+            "containerd",
+            "containerization",
+            "containers",
+            "containersplatform",
+            "kubernetes-cluster",
+            "kubernetes-deployment",
+            "kubernetes-setup",
+            "microservices",
+            "microservices-architecture"
+        ]
+    },
+    {
+        "name": "cybersecurity-bug-bounty",
+        "html_url": "https://github.com/paulveillard/cybersecurity-bug-bounty",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Bug Bounty in Cybersecurity.",
+        "stars": 44,
+        "topics": [
+            "bounty",
+            "bug",
+            "bug-bounty-automation",
+            "bug-bounty-tools",
+            "bugbounty"
+        ]
+    },
+    {
+        "name": "cybersecurity-application-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-application-security",
+        "description": "An ongoing & curated collection of awesome software practices and remediation, libraries and frameworks,payloads and techniques, best guidelines and technical resources about Application Security",
+        "stars": 43,
+        "topics": [
+            "application",
+            "application-security",
+            "appsec",
+            "developer-security",
+            "endpoint-security",
+            "mdm-server",
+            "mobilesecurity",
+            "security-advisory",
+            "security-hardening",
+            "security-scanner",
+            "security-testing",
+            "security-tools",
+            "security-vulnerability",
+            "vulnerability-scanners",
+            "web-security",
+            "web-security-research"
+        ]
+    },
+    {
+        "name": "cybersecurity-ethical-hacking",
+        "html_url": "https://github.com/paulveillard/cybersecurity-ethical-hacking",
+        "description": "An ongoing collection of awesome ethical hacking tools, software, libraries, learning tutorials, frameworks, academic and practical resources",
+        "stars": 43,
+        "topics": [
+            "application",
+            "cybersecurity",
+            "cybersecurity-incidents",
+            "hackathon",
+            "hackerrank-solutions",
+            "hacking",
+            "hacking-toolpentest",
+            "hackingtools",
+            "security-audit",
+            "security-tools",
+            "vulnerabilities",
+            "vulnerability-detection",
+            "web",
+            "web-application-firewall",
+            "web-application-security",
+            "web-application-security-scanner"
+        ]
+    },
+    {
+        "name": "awesome-security-articles",
+        "html_url": "https://github.com/irgoncalves/awesome-security-articles",
+        "description": "This repository contains links to awesome security articles.",
+        "stars": 43,
+        "topics": [
+            "appsec",
+            "cloudsecurity",
+            "cybersecurity",
+            "windows"
+        ]
+    },
+    {
+        "name": "awesome-security-automation",
+        "html_url": "https://github.com/theodo-group/awesome-security-automation",
+        "description": "Awesome links to automate your cybersecurity checks",
+        "stars": 42,
+        "topics": [
+            "security",
+            "security-audit",
+            "security-automation",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-reddit",
+        "html_url": "https://github.com/d0midigi/awesome-cybersecurity-reddit",
+        "description": "A curated list featuring OSs, hacking, cybersecurity, network security, and IT-related subreddits.",
+        "stars": 42,
+        "topics": [
+            "cybersecurity",
+            "cybersecurity-education",
+            "hacking-resources",
+            "information-security",
+            "information-technology",
+            "operating-systems",
+            "reddit"
+        ]
+    },
+    {
+        "name": "awesome-lol",
+        "html_url": "https://github.com/danzek/awesome-lol",
+        "description": "Living off the Land (LOL) attack techniques, tools, and defender resources",
+        "stars": 42,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "blueteam",
+            "cybersecurity",
+            "detection-engineering",
+            "dfir",
+            "gtfobins",
+            "lcdbins",
+            "living-off-the-land",
+            "lolbas",
+            "lolbins",
+            "lolscripts",
+            "purpleteam",
+            "redteam",
+            "threat-hunting"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-news",
+        "html_url": "https://github.com/ForbiddenProgrammer/awesome-cybersecurity-news",
+        "description": "List of sources for cybersecurity news",
+        "stars": 41,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "blueteaming",
+            "cyber-security",
+            "cybersecurity",
+            "cybersecurity-blog",
+            "cybersecurity-news",
+            "news",
+            "pentesting",
+            "redteaming"
+        ]
+    },
+    {
+        "name": "venom",
+        "html_url": "https://github.com/kraloveckey/venom",
+        "description": "\ud83d\udc7d The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.",
+        "stars": 41,
+        "topics": [
+            "answers",
+            "awesome",
+            "awesome-list",
+            "cyber-security",
+            "cybersecurity",
+            "devops",
+            "information-security",
+            "kali-linux",
+            "knowledge",
+            "linux",
+            "network",
+            "offensive-security",
+            "penetration-testing",
+            "resources",
+            "security",
+            "security-tools",
+            "skills",
+            "sysadmin",
+            "sysops",
+            "unix"
+        ]
+    },
+    {
+        "name": "cybersecurity-security-harderning",
+        "html_url": "https://github.com/paulveillard/cybersecurity-security-harderning",
+        "description": "A collection of awesome security hardening software, libraries, learning tutorials & documents, e-books, best practices, checklists, benchmarks about hardening in Cybersecurity",
+        "stars": 40,
+        "topics": [
+            "ami",
+            "linux-hardening",
+            "os-hardening",
+            "security",
+            "security-audit",
+            "security-hacks",
+            "security-hardening",
+            "ubuntu-hardening",
+            "ubuntu-sec-tools",
+            "vulnerability",
+            "vulnerability-assessment",
+            "vulnerability-detection",
+            "vulnerability-identification",
+            "vulnerability-scanning",
+            "windows-hardening"
+        ]
+    },
+    {
+        "name": "awesome-cra-compliance",
+        "html_url": "https://github.com/cra-compliance-lab/awesome-cra-compliance",
+        "description": "Curated resources for the EU Cyber Resilience Act (Regulation 2024/2847): regulation, harmonised standards, EUCC, SBOM, vulnerability management, conformity assessment",
+        "stars": 40,
+        "topics": [
+            "awesome-list",
+            "ce-marking",
+            "compliance",
+            "conformity-assessment",
+            "cra",
+            "cyber-resilience-act",
+            "cybersecurity",
+            "enisa",
+            "eu-regulation",
+            "eucc",
+            "european-union",
+            "harmonised-standards",
+            "nis2",
+            "product-security",
+            "sbom",
+            "vulnerability-management"
+        ]
+    },
+    {
+        "name": "cybersecurity-osint",
+        "html_url": "https://github.com/paulveillard/cybersecurity-osint",
+        "description": "An ongoing collection of awesome tools and frameworks, best security software practices, libraries, learning tutorials, frameworks, academic and practical resources about Open-source intelligence (OSINT) in cybersecurity.",
+        "stars": 39,
+        "topics": [
+            "osint",
+            "osint-framework",
+            "osint-python",
+            "osint-reconnaissance",
+            "osint-resources",
+            "osint-tool",
+            "osint-tools"
+        ]
+    },
+    {
+        "name": "Awesome-Honeypot",
+        "html_url": "https://github.com/code-byter/Awesome-Honeypot",
+        "description": "Cowrie Honeypot with Elasticsearch",
+        "stars": 39,
+        "topics": [
+            "cybersecurity",
+            "docker",
+            "elasticsearch",
+            "hacktoberfest",
+            "hacktoberfest2021",
+            "honeypot",
+            "linux"
+        ]
+    },
+    {
+        "name": "cybersecurity-dast",
+        "html_url": "https://github.com/paulveillard/cybersecurity-dast",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Dynamic Application Security Testing (DAST) Tools.",
+        "stars": 38,
+        "topics": [
+            "dyamic-fragments",
+            "dynamic-analysis",
+            "dynamic-binding",
+            "dynamic-bindings",
+            "dynamic-components",
+            "dynamic-environments",
+            "dynamic-programming"
+        ]
+    },
+    {
+        "name": "awesome-space-osint",
+        "html_url": "https://github.com/stellaryx-labs/awesome-space-osint",
+        "description": "\ud83c\udf0c A curated list of awesome space-centered OSINT tools ",
+        "stars": 38,
+        "topics": [
+            "aerospace",
+            "aerospace-cybersecurity",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "osint",
+            "security",
+            "software",
+            "space"
+        ]
+    },
+    {
+        "name": "awesome-osint",
+        "html_url": "https://github.com/brandonhimpfen/awesome-osint",
+        "description": "A curated list of high-quality open-source intelligence (OSINT) tools, resources, and techniques for investigations, journalism, cybersecurity, and more.",
+        "stars": 37,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "open-source",
+            "open-source-intelligence",
+            "osint"
+        ]
+    },
+    {
+        "name": "cybersecurity-industrial-control-systems-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-industrial-control-systems-security",
+        "description": "A collection of awesome software, libraries, documents, books, resources and cool stuff about industrial control systems in cybersecurity. ",
+        "stars": 37,
+        "topics": [
+            "control-systems",
+            "cybersecurity",
+            "ics",
+            "ics-security",
+            "scada-security"
+        ]
+    },
+    {
+        "name": "awesome-security-feeds",
+        "html_url": "https://github.com/clivoa/awesome-security-feeds",
+        "description": "Awesome Security Feeds a curated, structured and automation-friendly collection of security RSS/Atom sources. Based on https://securityfeeds.org/",
+        "stars": 37,
+        "topics": [
+            "awesome-list",
+            "cybersecurity",
+            "feeds",
+            "hacking",
+            "security-news"
+        ]
+    },
+    {
+        "name": "Cyber-Library",
+        "html_url": "https://github.com/Cyber-Courses/Cyber-Library",
+        "description": "\ud83d\udc4b Welcome to the Cyber Library your ultimate resource for everything cybersecurity.",
+        "stars": 37,
+        "topics": [
+            "awesome",
+            "career",
+            "cybersecurity",
+            "defense",
+            "governance",
+            "intelligence",
+            "library",
+            "offensive",
+            "osint",
+            "wiki"
+        ]
+    },
+    {
+        "name": "awesome-attack-surface-management",
+        "html_url": "https://github.com/Escape-Technologies/awesome-attack-surface-management",
+        "description": "A curated collection of tools, techniques, frameworks, and learning resources focused on Attack Surface Management (ASM).",
+        "stars": 37,
+        "topics": [
+            "asset-discovery",
+            "attack-surface-managment",
+            "attack-surfaces",
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "external-attack-surface",
+            "infosec",
+            "osint",
+            "penetration-testing",
+            "reconnaissance",
+            "security",
+            "security-tools",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "cybersecurity-macOS-iOS-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-macOS-iOS-security",
+        "description": "An ongoing collection of awesome macOS and iOS security tools, software, libraries, learning tutorials, frameworks, academic and practical resources.",
+        "stars": 37,
+        "topics": [
+            "apple",
+            "application",
+            "applications",
+            "apps",
+            "ios",
+            "ios-demo",
+            "ios-developer-tools",
+            "ios-development",
+            "ios-sdk",
+            "ios-swift",
+            "macos",
+            "macos-development",
+            "security",
+            "security-tools",
+            "security-vulnerability",
+            "web",
+            "xcode",
+            "xcode12",
+            "xcode13"
+        ]
+    },
+    {
+        "name": "awesome-ai-agent-attacks",
+        "html_url": "https://github.com/webpro255/awesome-ai-agent-attacks",
+        "description": "A curated timeline of real AI agent security incidents, breaches, and vulnerabilities (2024-2026). Every entry sourced and dated.",
+        "stars": 37,
+        "topics": [
+            "adversarial-attacks",
+            "agent-security",
+            "agentic-ai",
+            "ai-agent-security",
+            "ai-agents",
+            "ai-attacks",
+            "ai-safety",
+            "ai-security",
+            "awesome-list",
+            "cve",
+            "cybersecurity",
+            "incident-response",
+            "llm-security",
+            "mcp-security",
+            "owasp",
+            "prompt-injection",
+            "red-team",
+            "security-research",
+            "supply-chain-security",
+            "vulnerability"
+        ]
+    },
+    {
+        "name": "W3rni0-awesome-resources",
+        "html_url": "https://github.com/W3rni0/W3rni0-awesome-resources",
+        "description": "A list of resources I collected during my journey into cybersecurity",
+        "stars": 36,
+        "topics": []
+    },
+    {
+        "name": "Super_Cool_Links_By_Sera",
+        "html_url": "https://github.com/RealSeraphina/Super_Cool_Links_By_Sera",
+        "description": "A collection of awesome links I've compiled that are related to cybersecurity. ",
+        "stars": 34,
+        "topics": []
+    },
+    {
+        "name": "cybersecurity-exploit-development",
+        "html_url": "https://github.com/paulveillard/cybersecurity-exploit-development",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Exploit Development.",
+        "stars": 34,
+        "topics": [
+            "code-execution",
+            "developer",
+            "developer-experience",
+            "developer-tools",
+            "development",
+            "development-tools",
+            "exploit",
+            "exploitation",
+            "exploitation-framework",
+            "exploitation-frameworks",
+            "exploitation-menu",
+            "vulnerability-detection"
+        ]
+    },
+    {
+        "name": "student-perks",
+        "html_url": "https://github.com/jhaxce/student-perks",
+        "description": "The curated database of free software, cloud credits, and premium tools for students.",
+        "stars": 34,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "developer-tools",
+            "discounts",
+            "education",
+            "free-software",
+            "student-benefits",
+            "student-developer-pack",
+            "verification-guide"
+        ]
+    },
+    {
+        "name": "cybersecurity-android-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-android-security",
+        "description": "An ongoing collection of awesome android security tools, software, libraries, learning tutorials, frameworks, academic and practical resources",
+        "stars": 33,
+        "topics": [
+            "android",
+            "android-library",
+            "android-security",
+            "android-ui",
+            "androidappdevelopment",
+            "androidarchitecture",
+            "devsecops-best-practices",
+            "devsecops-university",
+            "security",
+            "security-audit",
+            "security-tools",
+            "tools"
+        ]
+    },
+    {
+        "name": "AwesomeResources",
+        "html_url": "https://github.com/CodheadClub/AwesomeResources",
+        "description": "An awesome list of computer science related resources.",
+        "stars": 33,
+        "topics": [
+            "academic",
+            "awesome",
+            "awesome-list",
+            "community",
+            "computer-science",
+            "cybersecurity",
+            "education",
+            "electronics",
+            "hacktoberfest",
+            "hacktoberfest-accepted",
+            "learning",
+            "linux",
+            "open-source",
+            "programming",
+            "resources",
+            "standards",
+            "virtualisation"
+        ]
+    },
+    {
+        "name": "Interview-Questions",
+        "html_url": "https://github.com/MrM8BRH/Interview-Questions",
+        "description": "A curated awesome list of lists of interview questions. Feel free to contribute!",
+        "stars": 33,
+        "topics": [
+            "cryptography",
+            "cybersecurity",
+            "cybersecurity-interview-questions",
+            "devops",
+            "devops-interview-questions",
+            "incident-response",
+            "interview-questions",
+            "mrm8brh",
+            "network-interview-questions",
+            "networking",
+            "osint",
+            "owasp",
+            "technical-interview-questions",
+            "threat-hunting"
+        ]
+    },
+    {
+        "name": "Awesome-Security-Resources",
+        "html_url": "https://github.com/Prashant-Bhapkar/Awesome-Security-Resources",
+        "description": "Vulnerability Assessment and Penetration Testing Tools (Information Security / Cyber security)",
+        "stars": 32,
+        "topics": [
+            "bugbounty",
+            "cybersecurity",
+            "ethical-hacking-tools",
+            "hacking",
+            "hacktoberfest",
+            "hacktoberfest2022",
+            "hactoberfest-accepted",
+            "penetration-testing",
+            "pentesting",
+            "security",
+            "vulnerability-assessment"
+        ]
+    },
+    {
+        "name": "awesome-hacking-training",
+        "html_url": "https://github.com/Smithech/awesome-hacking-training",
+        "description": "A curated list of awesome security and hacking training platforms and resources. ",
+        "stars": 31,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "hacking",
+            "learning-labs",
+            "learning-resources"
+        ]
+    },
+    {
+        "name": "cybersecurity-pcap-tools",
+        "html_url": "https://github.com/paulveillard/cybersecurity-pcap-tools",
+        "description": "A collection of awesome software, libraries, documents, books, resources and cool stuff about cybersecurity packet capture (PCAP) tools.",
+        "stars": 29,
+        "topics": [
+            "packet-analyzer",
+            "packet-capture",
+            "packet-processing",
+            "packets",
+            "pcap-analyzer",
+            "pcap-files",
+            "pcap-library"
+        ]
+    },
+    {
+        "name": "cybersecurity-sast",
+        "html_url": "https://github.com/paulveillard/cybersecurity-sast",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Static Application Security Testing (SAST) Tools.",
+        "stars": 29,
+        "topics": [
+            "static-analyzers",
+            "static-api-generator",
+            "static-app",
+            "static-application-security-testing",
+            "static-binary",
+            "static-blocks",
+            "static-build",
+            "static-code",
+            "static-code-analysis",
+            "static-code-analyzer"
+        ]
+    },
+    {
+        "name": "Awesome-Hacking-Learning-Path",
+        "html_url": "https://github.com/uttambodara/Awesome-Hacking-Learning-Path",
+        "description": "A comprehensive hacking learning path covering Pentesting, OSINT, Linux, Networking, Web Application Security, Cryptography, Exploitation, Reverse Engineering, Forensics, CVEs, and CTF challenges. Perfect for beginners and professionals to master ethical hacking, penetration testing, and cybersecurity step by step. \ud83d\ude80",
+        "stars": 29,
+        "topics": [
+            "bug-bounty",
+            "cryptography",
+            "ctf",
+            "cybersecurity-learning-path",
+            "ethical-hacking",
+            "hacking",
+            "hackthebox",
+            "linux",
+            "metasploit",
+            "networking",
+            "osint",
+            "penetration-testing",
+            "privilege-escalation",
+            "reverse-engineering",
+            "tryhackme",
+            "web-application-security"
+        ]
+    },
+    {
+        "name": "awesome-drone-hacking",
+        "html_url": "https://github.com/dronesploit/awesome-drone-hacking",
+        "description": "A curated list of awesome resources related to drone hacking",
+        "stars": 29,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "cybersecurity",
+            "drone",
+            "drone-hacking",
+            "drones",
+            "security"
+        ]
+    },
+    {
+        "name": "cybersecurity-pam",
+        "html_url": "https://github.com/paulveillard/cybersecurity-pam",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Privileged Access Management (PAM) in Cybersecurity.",
+        "stars": 28,
+        "topics": [
+            "pam-account",
+            "pam-authentication",
+            "pam-cracklib",
+            "pam-enhetsregister-sync",
+            "pam-http",
+            "pam-module",
+            "pam-python",
+            "pam-script",
+            "pam-sudo",
+            "pam-unix",
+            "privilege-escalation",
+            "privilege-escalation-exploits"
+        ]
+    },
+    {
+        "name": "cybersecurity-soc-compliance",
+        "html_url": "https://github.com/paulveillard/cybersecurity-soc-compliance",
+        "description": "A collection of awesome framework, libraries, documents, learning tutorials, resources about SOC 2 tools and processes.",
+        "stars": 28,
+        "topics": [
+            "compliance-as-code",
+            "compliance-automation",
+            "compliance-service",
+            "security-compliance",
+            "soc2",
+            "soc2-classification-nonproduction",
+            "soc2-classification-production",
+            "soc2-evidence",
+            "soc2-platform"
+        ]
+    },
+    {
+        "name": "tg-cybersec",
+        "html_url": "https://github.com/mehrazino/tg-cybersec",
+        "description": "Telegram cybersecurity channels.",
+        "stars": 27,
+        "topics": [
+            "awesome",
+            "channels",
+            "cti",
+            "cyber-threat-intelligence",
+            "cybersecurity",
+            "farsi",
+            "list",
+            "markdown",
+            "osint",
+            "persian",
+            "telegram",
+            "tg",
+            "threat-intelligence"
+        ]
+    },
+    {
+        "name": "cybersecurity-web-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-web-security",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Web Security in Cybersecurity.",
+        "stars": 27,
+        "topics": [
+            "cyber-threat-intelligence",
+            "cybersecurity-assessments",
+            "ddos",
+            "ddos-attacks",
+            "security-tools",
+            "services",
+            "sql-injection",
+            "web",
+            "website",
+            "xss-attacks",
+            "xss-detection",
+            "xss-scanner",
+            "xss-vulnerability"
+        ]
+    },
+    {
+        "name": "top-burpsuite-plugins-extensions",
+        "html_url": "https://github.com/Elsfa7-110/top-burpsuite-plugins-extensions",
+        "description": null,
+        "stars": 27,
+        "topics": [
+            "awesome",
+            "bugbounty",
+            "burpsuite",
+            "cybersecurity",
+            "security",
+            "vulnerability",
+            "vulnerability-scanners"
+        ]
+    },
+    {
+        "name": "cybersecurity-pentest",
+        "html_url": "https://github.com/paulveillard/cybersecurity-pentest",
+        "description": "An ongoing collection of awesome penetration testing (pentest) tools, software, libraries, learning tutorials, frameworks, academic and practical resources",
+        "stars": 26,
+        "topics": [
+            "penetration-automation",
+            "penetration-challenges",
+            "penetration-depth",
+            "penetration-test-framework",
+            "penetration-testing",
+            "penetration-testing-framework",
+            "pentesting"
+        ]
+    },
+    {
+        "name": "cybersecurity-ssrf",
+        "html_url": "https://github.com/paulveillard/cybersecurity-ssrf",
+        "description": " An ongoing & curated collection of awesome web vulnerability - Server-side request forgery software practices and remediation, libraries and frameworks, best guidelines and technical resources about SSRF",
+        "stars": 25,
+        "topics": [
+            "cybersecurity",
+            "mitigation",
+            "remediation",
+            "security",
+            "security-tools",
+            "server-side",
+            "server-side-request-forgery",
+            "ssrf",
+            "vulnerabilities",
+            "vulnerability",
+            "vulnerability-assessment",
+            "vulnerability-detection",
+            "vulnerability-management"
+        ]
+    },
+    {
+        "name": "cybersecurity-iOS",
+        "html_url": "https://github.com/paulveillard/cybersecurity-iOS",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about iOS Security.",
+        "stars": 25,
+        "topics": [
+            "apple",
+            "developer-tools",
+            "development",
+            "ios",
+            "ios-app",
+            "ios-sdk",
+            "ios-swift",
+            "ios14",
+            "iphone",
+            "iphone-application",
+            "iphone-game",
+            "macbook",
+            "mobile-app",
+            "mobile-development",
+            "mobile-device-management",
+            "mobile-devices",
+            "mobile-security",
+            "software-architecture",
+            "software-development",
+            "software-testing-tools"
+        ]
+    },
+    {
+        "name": "cybersecurity-cryptography",
+        "html_url": "https://github.com/paulveillard/cybersecurity-cryptography",
+        "description": "A collection of awesome software, libraries, documents, books, resources and cool stuff about cryptography in Cybersecurity. ",
+        "stars": 25,
+        "topics": [
+            "appsec",
+            "aws-security",
+            "azure-security",
+            "bitcoin",
+            "crypto",
+            "cryptocurrencies",
+            "cryptocurrency",
+            "cryptocurrency-exchanges",
+            "cryptography",
+            "cyber-security",
+            "cybercrime",
+            "docker-security",
+            "ethereum",
+            "gcp-security",
+            "ibm-security",
+            "kubernetes-deployment",
+            "nft-marketplace",
+            "nfts",
+            "security",
+            "workload-security"
+        ]
+    },
+    {
+        "name": "awesome-hacker-tools",
+        "html_url": "https://github.com/XiaomingX/awesome-hacker-tools",
+        "description": "\"Everything About Hacker Tools\" \u662f\u4e00\u7ad9\u5f0f\u4fe1\u606f\u5e73\u53f0\uff0c\u6c47\u805a\u4e86\u5173\u4e8e\u9ed1\u5ba2\u5de5\u5177\u7684\u5168\u9762\u6307\u5357\uff0c\u5305\u62ec\u5b9e\u7528\u6280\u5de7\u3001\u5e94\u7528\u6848\u4f8b\u548c\u5b89\u5168\u9632\u8303\u5efa\u8bae\uff0c\u5e2e\u52a9\u6280\u672f\u7231\u597d\u8005\u6df1\u5165\u4e86\u89e3\u7f51\u7edc\u5b89\u5168\u6280\u672f\uff0c\u63a2\u7d22\u5de5\u5177\u4f7f\u7528\u80cc\u540e\u7684\u903b\u8f91\u4e0e\u539f\u7406\uff0c\u540c\u65f6\u5f3a\u5316\u5bf9\u7f51\u7edc\u5b89\u5168\u5a01\u80c1\u7684\u9632\u8303\u610f\u8bc6\u3002\u65e0\u8bba\u662f\u65b0\u624b\u8fd8\u662f\u4e13\u4e1a\u4eba\u58eb\uff0c\u8fd9\u91cc\u90fd\u6709\u503c\u5f97\u4f60\u5173\u6ce8\u7684\u5185\u5bb9\u3002",
+        "stars": 25,
+        "topics": [
+            "cybersecurity",
+            "ethical-hacking",
+            "hacker-tools",
+            "network-security",
+            "online-safety",
+            "penetration-testing"
+        ]
+    },
+    {
+        "name": "cybersecurity-tls-security",
+        "html_url": "https://github.com/paulveillard/cybersecurity-tls-security",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about SSL / TLS",
+        "stars": 24,
+        "topics": [
+            "cryptography",
+            "decryption",
+            "encryption",
+            "https",
+            "https-certificate",
+            "https-everywhere",
+            "json",
+            "openssl",
+            "security-vulnerability",
+            "ssl-certificates",
+            "ssl-checker",
+            "tls-certificate",
+            "tls-certificate-management",
+            "tls-client",
+            "tls-handshake",
+            "tls-proxy",
+            "tls-server",
+            "tls-support",
+            "x509",
+            "x509certificates"
+        ]
+    },
+    {
+        "name": "cybersecurity-networking",
+        "html_url": "https://github.com/paulveillard/cybersecurity-networking",
+        "description": "An ongoing curated collection of awesome software, libraries, frameworks, talks & videos, best practices, learning tutorials and important practical resources about networking in cybersecurity",
+        "stars": 24,
+        "topics": [
+            "network",
+            "network-analysis",
+            "network-automation",
+            "network-inference",
+            "network-programming",
+            "network-scripting",
+            "network-security",
+            "network-security-books",
+            "network-server",
+            "network-service",
+            "network-tools",
+            "networking",
+            "networking-application",
+            "networking-concepts",
+            "networking-labs",
+            "networks"
+        ]
+    },
+    {
+        "name": "cybersecurity-social-engineering",
+        "html_url": "https://github.com/paulveillard/cybersecurity-social-engineering",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Social Engineering in Cybersecurity",
+        "stars": 23,
+        "topics": [
+            "social-engineering",
+            "social-engineering-attacks",
+            "social-engineering-techniques",
+            "social-engineering-toolkit",
+            "social-network-analysis",
+            "social-networks"
+        ]
+    },
+    {
+        "name": "awesome-privacy-podcasts",
+        "html_url": "https://github.com/iAnonymous3000/awesome-privacy-podcasts",
+        "description": "An insightful collection of my favorite podcasts focusing on privacy, cybersecurity, and digital rights. Explore various perspectives on protecting your digital footprint, data, and online identity.",
+        "stars": 22,
+        "topics": [
+            "podcast",
+            "podcasts",
+            "privacy"
+        ]
+    },
+    {
+        "name": "cybersecurity-threat-modeling",
+        "html_url": "https://github.com/paulveillard/cybersecurity-threat-modeling",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Threat Modeling in Cybersecurity.",
+        "stars": 21,
+        "topics": []
+    },
+    {
+        "name": "Awesome-AI4DevSecOps",
+        "html_url": "https://github.com/awsm-research/Awesome-AI4DevSecOps",
+        "description": "This repository offers a detailed taxonomy of existing AI-driven security solutions tailored for DevSecOps, highlighting the current research challenges and suggesting future directions for the field. It serves as a resource for researchers, developers, and security professionals interested in the intersection of AI and DevSecOps.",
+        "stars": 21,
+        "topics": [
+            "cybersecurity",
+            "deep-learning",
+            "devsecops",
+            "machine-learning",
+            "software-engineering",
+            "software-security",
+            "software-testing"
+        ]
+    },
+    {
+        "name": "haarf",
+        "html_url": "https://github.com/Task-force-for-AI-agents-in-Healthcare/haarf",
+        "description": "\u2695\ufe0f the world's first unified, lifecycle-centric regulatory framework specifically designed for autonomous AI agents in medical environments (270+ requirements, 3 risk categories).",
+        "stars": 21,
+        "topics": [
+            "ai",
+            "ai-agents",
+            "ai-regulation",
+            "ai-safety",
+            "aisvs",
+            "artificial-intelligence",
+            "awesome",
+            "cybersecurity",
+            "digital-health",
+            "fda",
+            "fda-compliance",
+            "framework",
+            "healthcare-ai",
+            "healthcare-compliance",
+            "iso42001",
+            "machine-learning",
+            "medical-ai",
+            "open-source",
+            "qfire",
+            "regulatory-framework"
+        ]
+    },
+    {
+        "name": "cybersecurity-gdpr-compliance",
+        "html_url": "https://github.com/paulveillard/cybersecurity-gdpr-compliance",
+        "description": "A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about General Data Protection Regulation (GDPR).",
+        "stars": 20,
+        "topics": [
+            "appsec",
+            "appsecurity",
+            "compliance-automation",
+            "cybercrime",
+            "cybersecurity",
+            "fedramp",
+            "fedramp-baselines",
+            "fedramp-low",
+            "fedramp-medium",
+            "gdpr",
+            "gdpr-checklist",
+            "gdpr-compliant",
+            "gdpr-compliant-features",
+            "gdpr-dashboard",
+            "hipaa",
+            "pci"
+        ]
+    },
+    {
+        "name": "cybersecurity-searchable-symmetric-encryption",
+        "html_url": "https://github.com/paulveillard/cybersecurity-searchable-symmetric-encryption",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Searchable Symmetric Encryption.",
+        "stars": 20,
+        "topics": [
+            "encryption",
+            "encryption-key-management",
+            "encryption-library",
+            "encryption-management",
+            "encryption-methods",
+            "encryption-operation",
+            "encryption-scheme",
+            "searchable-encryption",
+            "sse"
+        ]
+    },
+    {
+        "name": "cybersecurity-applied-cryptography",
+        "html_url": "https://github.com/paulveillard/cybersecurity-applied-cryptography",
+        "description": "A collection of awesome software, learning tutorials, theoretical resources, books and videos, best practices in applied cryptography.",
+        "stars": 19,
+        "topics": [
+            "applied-computer-science",
+            "applied-cryptography",
+            "applied-machine-learning",
+            "applied-science",
+            "crypocurrency",
+            "crypography",
+            "crypto",
+            "cryptocurrency-exchanges",
+            "cryptography",
+            "crytopcurrency-portfolio",
+            "cve",
+            "cvn",
+            "cybersecurity",
+            "cybersecurity-incidents",
+            "security-tools"
+        ]
+    },
+    {
+        "name": "cybersecurity-honeypots",
+        "html_url": "https://github.com/paulveillard/cybersecurity-honeypots",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Honey Pots in Cybersecurity.",
+        "stars": 19,
+        "topics": [
+            "cyber",
+            "cybersecurity",
+            "honeypot",
+            "honeypots"
+        ]
+    },
+    {
+        "name": "awesome-anonymity-papers",
+        "html_url": "https://github.com/secdr/awesome-anonymity-papers",
+        "description": "\ud83d\udd10 A list of anonymity papers published from 2012 to 2026.",
+        "stars": 19,
+        "topics": [
+            "anonymity",
+            "cryptography",
+            "cybersecurity",
+            "darknet",
+            "ech",
+            "ja4-fingerprint",
+            "tor"
+        ]
+    },
+    {
+        "name": "awesome-bug-bounty",
+        "html_url": "https://github.com/itsmohitnarayan/awesome-bug-bounty",
+        "description": "A curated list of resources, tools, and wordlists for bug bounty hunters.",
+        "stars": 19,
+        "topics": [
+            "awesome",
+            "awesome-bug-bounty",
+            "awesome-list",
+            "bug",
+            "bug-bounty-resources",
+            "bugbounty",
+            "bugbounty-tool",
+            "bugbountytips",
+            "bugcrowd",
+            "bugreport",
+            "burpsuite",
+            "crtsh",
+            "cybersecurity",
+            "hackerone",
+            "howtohunt",
+            "john-the-ripper",
+            "nmap",
+            "open-source",
+            "shodan",
+            "wireshark"
+        ]
+    },
+    {
+        "name": "hacking-101",
+        "html_url": "https://github.com/ClaudiasLibrary/hacking-101",
+        "description": "A comprehensive guide to becoming a hacker, covering skills, tools, and best practices to master cybersecurity and hacking techniques.",
+        "stars": 19,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "ethical-hacking",
+            "exploit",
+            "guide",
+            "hacking",
+            "how-to",
+            "learning",
+            "list",
+            "network",
+            "osint",
+            "penetration-testing",
+            "pentesting",
+            "privacy",
+            "security",
+            "social-engineering",
+            "vulnerability",
+            "webapp"
+        ]
+    },
+    {
+        "name": "awesome-ml-for-threat-detection",
+        "html_url": "https://github.com/patternex/awesome-ml-for-threat-detection",
+        "description": "A curated list of resources to deep dive into the intersection of applied machine learning and threat detection.",
+        "stars": 19,
+        "topics": [
+            "applied-machine-learning",
+            "awesome-list",
+            "cybersecurity",
+            "machine-learning",
+            "machine-learning-operations",
+            "machine-learning-systems",
+            "papers",
+            "threat-detection"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity",
+        "html_url": "https://github.com/brandonhimpfen/awesome-cybersecurity",
+        "description": "A curated list of high-quality cybersecurity resources, tools, frameworks, and communities to protect systems, networks, and data.",
+        "stars": 18,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "awesome-lists",
+            "cybersecurity",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-llm-reverse-engineering",
+        "html_url": "https://github.com/ram-elgov/awesome-llm-reverse-engineering",
+        "description": "A curated list of tools, papers, datasets, and resources that leverage Large Language Models (LLMs) for reverse engineering, decompilation, binary analysis, and cybersecurity research.",
+        "stars": 18,
+        "topics": []
+    },
+    {
+        "name": "cybersecurity-auth",
+        "html_url": "https://github.com/paulveillard/cybersecurity-auth",
+        "description": "An ongoing & curated collection of awesome AuthN+Z software, libraries and frameworks, best guidelines and technical resources and cool stuff about Authentication & Authorization & SSO & IAM",
+        "stars": 18,
+        "topics": [
+            "auth-api",
+            "auth-service",
+            "auth0",
+            "authenticated-encryption",
+            "authentication",
+            "authentication-service",
+            "authentication-strategy",
+            "authenticator",
+            "authn",
+            "authn-server",
+            "authorization",
+            "authz",
+            "authz-authority",
+            "awesome",
+            "aws-iam",
+            "aws-iam-policies",
+            "iam",
+            "iam-role"
+        ]
+    },
+    {
+        "name": "awesome-web3",
+        "html_url": "https://github.com/zbraiterman/awesome-web3",
+        "description": "A curated list of resources for learning about Web3",
+        "stars": 18,
+        "topics": [
+            "blockchain",
+            "cybersecurity",
+            "defi",
+            "fintech",
+            "web3"
+        ]
+    },
+    {
+        "name": "CyberElite",
+        "html_url": "https://github.com/uttambodara/CyberElite",
+        "description": "\ud83d\udd10 Welcome to Hack-Academia \u2014 your go-to destination for everything related to \ud83d\udda5\ufe0f ethical hacking, \ud83d\udd27 penetration testing, and \ud83d\udee1\ufe0f cybersecurity research. Whether you're a \ud83c\udf31 newcomer eager to dive into the cyber world or a \ud83e\uddd1\u200d\ud83d\udcbb skilled expert searching for the latest tools and tactics, Hack-Academia is here to fuel your journey. \u26a1",
+        "stars": 18,
+        "topics": [
+            "attacksurface",
+            "awesome",
+            "awesome-list",
+            "bug-bounty",
+            "cheatsheet-god",
+            "cybersecurity",
+            "cybersecurity-tool",
+            "exploitation",
+            "good-first-issue",
+            "hacking",
+            "hacking-tool",
+            "how-to-hack",
+            "information-gathering",
+            "oscp-prep",
+            "passwordattack",
+            "payloads",
+            "reverse-engineering",
+            "roadmap",
+            "security-vulnerability",
+            "web-hacking"
+        ]
+    },
+    {
+        "name": "cybersecurity-firewall",
+        "html_url": "https://github.com/paulveillard/cybersecurity-firewall",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Firewall in Cybersecurity",
+        "stars": 17,
+        "topics": [
+            "firewall",
+            "firewall-action",
+            "firewall-api",
+            "firewall-authentication",
+            "firewall-automation",
+            "firewall-bypass",
+            "firewall-checkpoint",
+            "firewall-cmd",
+            "firewall-configuration",
+            "firewall-framework",
+            "firewall-management",
+            "firewall-manager"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-bookmarks",
+        "html_url": "https://github.com/hRun/awesome-cybersecurity-bookmarks",
+        "description": "A cybersecurity guy's curated list of useful browser bookmarks",
+        "stars": 17,
+        "topics": []
+    },
+    {
+        "name": "cybersecurity-zero-day",
+        "html_url": "https://github.com/paulveillard/cybersecurity-zero-day",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Zero-day attack and exploits in Cybersecurity",
+        "stars": 17,
+        "topics": [
+            "zero-day",
+            "zero-day-threat",
+            "zero-days-of-code",
+            "zero-trust-cloud",
+            "zero-trust-security"
+        ]
+    },
+    {
+        "name": "awesome-cyber-security",
+        "html_url": "https://github.com/TzuriLabs/awesome-cyber-security",
+        "description": "A bunch of resources containing learning resources, certifications, security frameworks, bug bounties, podcasts and tools used for cyber security.",
+        "stars": 16,
+        "topics": [
+            "awesome",
+            "cybersecurity",
+            "hacktoberfest",
+            "resources"
+        ]
+    },
+    {
+        "name": "cybersecurity-waf",
+        "html_url": "https://github.com/paulveillard/cybersecurity-waf",
+        "description": "An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Web Application Firewall (WAF) in Cybersecurity",
+        "stars": 16,
+        "topics": [
+            "firewall",
+            "firewall-action",
+            "firewall-api",
+            "firewall-authentication",
+            "firewall-automation",
+            "firewall-bypass",
+            "firewall-checkpoint",
+            "firewall-configuration",
+            "firewall-controller",
+            "firewall-framework"
+        ]
+    },
+    {
+        "name": "Awesome-Hacking-with-AI",
+        "html_url": "https://github.com/frangelbarrera/Awesome-Hacking-with-AI",
+        "description": "A curated guide to AI-powered offensive security \u2014 autonomous pentesting agents, LLM agents, red team ops, prompt injection & adversarial AI research.",
+        "stars": 16,
+        "topics": [
+            "ai-hacking",
+            "ai-security",
+            "artificial-intelligence",
+            "autonomous-agents",
+            "awesome",
+            "botnet",
+            "cybersecurity",
+            "ethical-hacking",
+            "llm-agents",
+            "malware",
+            "network-security",
+            "offensive-security",
+            "pentesting",
+            "phishing",
+            "red-teaming"
+        ]
+    },
+    {
+        "name": "awesome-osint-toolkit",
+        "html_url": "https://github.com/shallvhack/awesome-osint-toolkit",
+        "description": "\ud83d\udd0e A Toolkit for OSINT by the OSINT JOURNO Community!",
+        "stars": 16,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "geoint",
+            "guide",
+            "investigative-journalism",
+            "opensourceintelligence",
+            "osint",
+            "osint-resources",
+            "osint-tool",
+            "osint-toolkit",
+            "osint-tools",
+            "sigint",
+            "socmint",
+            "website"
+        ]
+    },
+    {
+        "name": "wireshark-free-tutorials",
+        "html_url": "https://github.com/labex-labs/wireshark-free-tutorials",
+        "description": "Free Wireshark tutorials for beginners with 13 interactive lessons. Easy-to-follow programming guides with hands-on practice exercises.",
+        "stars": 16,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "cybersecurity",
+            "exercises",
+            "free",
+            "free-tutorials",
+            "hands-on",
+            "labex",
+            "netsec",
+            "networkanalysis",
+            "networkprotocols",
+            "networksecurity",
+            "opensource",
+            "packetsniffing",
+            "programming",
+            "tcpdump",
+            "troubleshooting",
+            "tutorials",
+            "wireshark"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-MCP",
+        "html_url": "https://github.com/JoasASantos/awesome-cybersecurity-MCP",
+        "description": null,
+        "stars": 15,
+        "topics": []
+    },
+    {
+        "name": "cybersecurity-web-application-labs",
+        "html_url": "https://github.com/paulveillard/cybersecurity-web-application-labs",
+        "description": " An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Web Application Security Labs in Cybersecurity",
+        "stars": 15,
+        "topics": [
+            "labs",
+            "sqlinject-defense",
+            "sqlinjection",
+            "web-application-framework",
+            "web-security-gateway",
+            "web-security-research",
+            "xss",
+            "xss-exploitation",
+            "xss-payloads",
+            "xss-scanner",
+            "xss-vulnerability"
+        ]
+    },
+    {
+        "name": "awesome-crowdsec",
+        "html_url": "https://github.com/wolffcatskyy/awesome-crowdsec",
+        "description": "A curated list of awesome CrowdSec resources, bouncers, integrations, and tools",
+        "stars": 15,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "crowdsec",
+            "cybersecurity",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-DGA",
+        "html_url": "https://github.com/chhayac/awesome-DGA",
+        "description": "Domain Generation Algorithms research papers, datasets and code",
+        "stars": 15,
+        "topics": [
+            "cybersecurity",
+            "deeplearning",
+            "dga",
+            "dga-detection",
+            "dgapapers",
+            "domaingenerationalgorithms",
+            "machinelearning",
+            "security"
+        ]
+    },
+    {
+        "name": "awesome-cybersecurity-tools",
+        "html_url": "https://github.com/eudk/awesome-cybersecurity-tools",
+        "description": "\ud83d\udee1\ufe0fAwesome Cybersecurity Tools \ud83d\udd34 VERY LARGE LIST! \ud83d\udd34 Curated list of Security & Hacking Tools \u2013 Updated September 2025",
+        "stars": 14,
+        "topics": [
+            "awesome",
+            "awesome-list",
+            "blue-team",
+            "certificate",
+            "cheatsheet",
+            "cloud-security",
+            "cybersecurity",
+            "dfir",
+            "hacking",
+            "learning",
+            "pentesting",
+            "red-team",
+            "security"
+        ]
+    }
+]
